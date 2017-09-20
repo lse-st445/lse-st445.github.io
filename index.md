@@ -1,4 +1,4 @@
-# ST445 Managing and Visualizing Data
+# ![LSE](images/lse-logo.jpg) ST445 Managing and Visualizing Data 
 
 
 ### Michaelmas Term 2017
