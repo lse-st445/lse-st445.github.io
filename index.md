@@ -134,7 +134,7 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 
 *Lab*: **Working with a relational database manager**
-* Normalizing a data structure and storing it in SQLLite
+* Normalizing a data structure and storing it in SQLite
 * Enforcing data integrity
 * Constructing queries
 
