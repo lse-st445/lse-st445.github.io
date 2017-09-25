@@ -1,5 +1,5 @@
-# ST445 Managing and Visualizing Data
-
+![LSE](images/lse-logo.jpg) 
+# ST445 Managing and Visualizing Data 
 
 ### Michaelmas Term 2017
 
@@ -9,7 +9,7 @@
 * [Milan Vojnovic](mailto:m.vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: By appointment, COL, 2.05A
 
 ### Teaching Assistant
-* [Christine Yuen](mailto:L.T.Yuen@lse.ac.uk), Department of Statistics.  *Office hours*: Thursday 14:30 - 15:30, COL 5.01
+* [Christine Yuen](mailto:L.T.Yuen@lse.ac.uk), Department of Statistics.  *Office hours*: Thursday 11:00 - 12:00, COL 5.03
 
 ### Course Information
 
@@ -119,7 +119,7 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 
 #### Week 3. Creating and managing databases
 
-We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
+We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
 
 *Readings*:
 *	Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
