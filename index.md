@@ -18,25 +18,20 @@
 
 No lectures or classes will take place during School Reading Week 6.
 
-| **Week** | **Topic**                            |
-|----------|--------------------------------------|
-| 1        | [Introduction to Data](#week-1-introduction-to-data) |
-| 2        | [The shape of data](#week-2-the-shape-of-data)                  |
-| 3        | [Creating and managing databases](#week-3-creating-and-managing-databases)    |
-| 4        | [Using data from the Internet](#week-4-using-data-from-the-internet)       |
-| 5        | [Working with APIs](#week-5-working-with-apis)                  |
+| **Week** | **Topic**                            | **Week** | **Topic**      |
+|:----------:|:--------------------------------------|:----:|:----|
+| 1        | [Introduction to Data](#week-1-introduction-to-data) | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
+| 2        | [The shape of data](#week-2-the-shape-of-data)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
+| 3        | [Creating and managing databases](#week-3-creating-and-managing-databases)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
+| 4        | [Using data from the Internet](#week-4-using-data-from-the-internet)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
+| 5        | [Working with APIs](#week-5-working-with-apis)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
 | 6        | _Reading Week_                       |
-| 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
-| 9        | [Model evaluation](#week-9-model-evaluation)                   |
-| 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
-| 11       | [Graph data visualization](#week11-graph-data-visualization)           |
 
 
 
 ### Course Description
 
-This course will cover the principles of digital methods for storing and structuring data, including data types, relational and non-relational database design, and query languages. Students will learn to build, populate, manipulate and query databases based on datasets relevant to their fields of interest. The course will also cover workflow management for typical data transformation and cleaning projects, frequently the starting point and most time-consuming part of any data science project. This course uses a project- based learning approach towards the study of online publishing and group -based collaboration, essential ingredients of modern data science projects. The coverage of data sharing will include key skills in on-line publishing, including the elements of web design, the technical elements of web technologies and web programming, as well as the use of revision- control and group collaboration tools such as GitHub. Each student will build one or more interactive website based on content relevant to his/her domain -related interests, and will use GitHub for accessing and submitting course materials and assignments.
+This course will cover the principles of digital methods for storing and structuring data, including data types, relational and non-relational database design, and query languages. Students will learn to build, populate, manipulate and query databases based on datasets relevant to their fields of interest. The course will also cover workflow management for typical data transformation and cleaning projects, frequently the starting point and most time-consuming part of any data science project. This course uses a project-based learning approach towards the study of online publishing and group -based collaboration, essential ingredients of modern data science projects. The coverage of data sharing will include key skills in on-line publishing, including the elements of web design, the technical elements of web technologies and web programming, as well as the use of revision- control and group collaboration tools such as GitHub. Each student will build one or more interactive website based on content relevant to his/her domain -related interests, and will use GitHub for accessing and submitting course materials and assignments.
 
 A core objective of this course is to provide students with a well-rounded sense of "data science literacy", meaning you will become familiar with the core structures, terms, protocols, and software that forms the core material of data science and applied computing.  This is a broad category, covering abstract concepts such as database normal forms and complex data structures, but also covers a range of simple tools and formats such as markup languages, web publishing, and working with APIs (application programming interfaces).  In the second half of the course, we will focus on communicating results visually through turning data into plots and other visualizations.
 
@@ -70,7 +65,7 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 
 ### Assessment
 
-Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT. 
+Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
 
 ### Schedule
 
