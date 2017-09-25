@@ -1,5 +1,5 @@
-![LSE](images/lse-logo.jpg) 
-# ST445 Managing and Visualizing Data 
+![LSE](images/lse-logo.jpg)
+# ST445 Managing and Visualizing Data
 
 ### Michaelmas Term 2017
 
@@ -55,7 +55,6 @@ The course will involve 20 hours of lectures and 15 hours of computer workshops 
 ### Prerequisites
 
 No prior experience with programming is required.
-
 
 ### Software
 
