@@ -1,3 +1,6 @@
+---
+---
+
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
