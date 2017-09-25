@@ -69,11 +69,16 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 ### Schedule
 
 ---
-#### Week 1. Introduction to Data
+#### Week 1. [Introduction to Data](](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.  
 
 This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages.  We will introduce the notion of databases and database managers, and the client-server model.
+
+*Lecture Notes*:
+* [Lecture, Week 1](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) ([pdf version](http://github.com/lse-st445/lectures/week01/ST445_wk1_lecture.pdf))
+* [R example to fix](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/R_example.ipynb)
+
 
 *Readings*:
 * Lake, P. and Crowther, P. 2013. _Concise guide to databases: A Practical Introduction_.  London: Springer-Verlag.  Chapter 1, [Data, an Organizational Asset](https://books.google.co.uk/books?id=SuK2BAAAQBAJ&pg=PA301&lpg=PA301&dq=Concise+Guide+to+Databases+pdf&source=bl&ots=pEJj8miMrf&sig=3nrRgpk3kF7fXzcWUWpJ_uzpfl0&hl=en&sa=X&ved=0ahUKEwiAkM3JrbHWAhXE7xQKHWseCZAQ6AEISzAH#v=onepage&q=Concise%20Guide%20to%20Databases%20pdf&f=false)
