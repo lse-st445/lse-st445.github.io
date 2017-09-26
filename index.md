@@ -95,10 +95,11 @@ This week will also introduce basic data types, in a language-agnostic manner, f
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Setting up a website using GitHub pages**](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_class.ipynb), by forking a repository, staging and committing changes, and pushing these to a repository for publishing a website using Jekyll.
+*Lab*: [**Working with git and GitHub**](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_class.md).
 * Installing git and setting up an account on GitHub
 * Using Jupyter notebooks on GitHub
 * How to complete and submit assignments using GitHub Classroom
+* Forking and correcting the [broken R example](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
 * Cloning a website repository, modifying it, and publishing a personal webpage
 
 
