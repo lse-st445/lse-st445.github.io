@@ -76,8 +76,8 @@ In the first week, we will introduce the basic concepts of the course, including
 This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages.  We will introduce the notion of databases and database managers, and the client-server model.
 
 *Lecture Notes*:
-* [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
-* [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
+* [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
+* [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
 * [R example to fix](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
 
 
