@@ -1,3 +1,10 @@
+---
+papersize: a4
+documentclass: scrartcl
+classoption: DIV=14
+colorlinks: true
+---
+
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
@@ -47,10 +54,9 @@ For the final project, we will provide you with a dataset, which you will be exp
 
 ### Organization
 
-This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.  
+This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.
 
-The course will involve 20 hours of lectures and 15 hours of computer workshops in the MT. 	
-
+The course will involve 20 hours of lectures and 15 hours of computer workshops in the MT.
 
 ### Prerequisites
 
@@ -68,16 +74,16 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 
 ### Schedule
 
----
-#### Week 1. [Introduction to Data](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb)
+------
+#### Week 1. [Introduction to Data](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb)
 
-In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.  
+In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
 This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages.  We will introduce the notion of databases and database managers, and the client-server model.
 
 *Lecture Notes*:
-* [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
-* [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
+* [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
+* [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
 * [R example to fix](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
 
 
@@ -90,7 +96,7 @@ This week will also introduce basic data types, in a language-agnostic manner, f
 *Further Readings*:
 * "[Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/)".  _Better Explained_ website.
 * Nelson, Meghan.  2015.  "[An Intro to Git and GitHub for Beginners (Tutorial).](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)"
-* GitHub.  "[Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)" (a cheatsheet).  
+* GitHub.  "[Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)" (a cheatsheet).
 * Chacon, Scott and Ben Straub. [_Pro Git_](https://git-scm.com/book/en/v2). 2nd ed. Apress.  Chapters 1-2.
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
@@ -103,7 +109,7 @@ A step-by-step beginner's guide to creating a personal website and blog using Je
 * Cloning a website repository, modifying it, and publishing a personal webpage
 
 
----
+------
 #### Week 2. The shape of data
 
 This week moves beyond the rectangular format common in statistical datasets, modeled on a spreadsheet, to cover relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.
@@ -113,7 +119,7 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 * The [**reshape2** package](http://had.co.nz/reshape/) for R.
 
 *Further Resources*:
-* Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".  
+* Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)", 20 Jan 2017.
 
 *Lab*: **Reshaping and data in R**
@@ -122,7 +128,7 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 * Using lookup and "hash" tables.
 * Normalizing tables through key relations.
 
----
+------
 
 #### Week 3. Creating and managing databases
 
@@ -142,7 +148,7 @@ We will return to database normalization, and how to implement this using good p
 * Constructing queries
 
 
----
+------
 #### Week 4. Using data from the Internet
 
 This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown, as well as common data formats such as JSON (Javascript Object Notation).  We will cover basic web scraping, to turn web data into text or numbers.  We will also cover the client-server model, and how machines and humans transmit data over networks and to and from databases.
@@ -160,7 +166,7 @@ This week covers markup languages, content style sheets, and web protocols for p
 
 *Lab*: **Scraping data from the web**
 
----
+------
 
 #### Week 5. Working with APIs
 
@@ -182,17 +188,17 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * Perform basic analysis of the text and non-textual data.
 
 
----
+------
 #### Week 6. Reading Week
 
 
----
+------
 #### Week 7. Exploratory data analysis
 
 We will introduce the basic statistical plots that are commonly used in exploratory data analysis. We will first consider standard plots for univariate data analysis, including histograms, empirical distribution functions, as well as plots of summary statistics such as boxplots. We will then consider different variants of bar plots, which are commonly used for comparison of parallel batches of data.
 
 *Readings*:
-* M. Friendly, [A Brief History of Data Visualization](http://www.datavis.ca/papers/hbook.pdf), Handbook of Computational Statistics: Data Visualization (Editors C. Chen, W. Hardle and A. Unwin), Vol III, Springer-Verlag, 2006  
+* M. Friendly, [A Brief History of Data Visualization](http://www.datavis.ca/papers/hbook.pdf), Handbook of Computational Statistics: Data Visualization (Editors C. Chen, W. Hardle and A. Unwin), Vol III, Springer-Verlag, 2006
 * E. R. Tufte, The Visual Display of Quantitative Information, Second Edition, Graphics Press, 2001
 * J. W. Tukey, Exploratory Data Analysis, Pearson, 1977
 * [Matplotlib](https://matplotlib.org)
@@ -204,10 +210,10 @@ We will introduce the basic statistical plots that are commonly used in explorat
 *  Histogram, boxplots and their variants
 * Bar plots, horizontal, vertical and stacked
 
----
+------
 #### Week 8. Exploratory data analysis (cont'd)
 
-We will continue our consideration of data visualizations for exploratory data analysis by examining various other statistical plots, primarily focusing to multivariate data analysis and time series data. We will consider the use of scatter plots and heatmaps.  
+We will continue our consideration of data visualizations for exploratory data analysis by examining various other statistical plots, primarily focusing to multivariate data analysis and time series data. We will consider the use of scatter plots and heatmaps.
 
 *Readings*:
 * K. Dale, Data Visualization with Python & JavaScript, O'Reilly, 2016
@@ -220,10 +226,10 @@ We will continue our consideration of data visualizations for exploratory data a
 * Matrix reordering, clustering and bi-clustering
 * Time series plotting, autocorrelation plot
 
----
+------
 #### Week 9. Model evaluation
 
-In this week, we will introduce standard statistical plots for the performance evaluation of statistical models and machine learning algorithms for classification. We will introduce standard statistical plots for assessing the performance of binary classifiers, such as receiver operating characteristic (ROC) and precision-recall (PR) curves. We will learn how to interpret these plots and discuss their advantages and limitations.  
+In this week, we will introduce standard statistical plots for the performance evaluation of statistical models and machine learning algorithms for classification. We will introduce standard statistical plots for assessing the performance of binary classifiers, such as receiver operating characteristic (ROC) and precision-recall (PR) curves. We will learn how to interpret these plots and discuss their advantages and limitations.
 
 We will also discuss various standard metrics used for assessing the performance of binary classifiers, such as accuracy, area under the curve (AUC) and Gini coefficient, discuss their relation to the ROC curve, as well as their advantages and limitations.
 
@@ -240,7 +246,7 @@ We will also discuss various standard metrics used for assessing the performance
 * Comparison of ROC and PR curves
 * Accuracy, AUC and other metrics
 
----
+------
 #### Week 10. Dimensionality reduction
 
 We will consider how to visualize hidden structures in a high-dimensional data, such as hidden clusters or low-dimensional manifolds, by using dimensionality reduction methods. We will explain the underlying principles of dimensionality reduction methods such as multidimensional scaling, locally linear embedding, isomap, spectral embedding, and stochastic neighbor embedding. We will see how geometry, linear algebra and optimisation methods give raise to different dimensionality reduction methods.
@@ -260,7 +266,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * Understanding the meaning of various input parameters
 * Understanding the sensitivity to the input parameter values
 
----
+------
 #### Week 11. Graph data visualization
 
 In the last week, we will consider the basic methods for visualization of graph data such as visualizing social network relationships. We will consider different graph layouts and the principles of how they are computed. This will involve methods based on simple principles for drawing graphs that have a tree structure as well as more sophisticated methods based on spectral theory of linear algebra and dynamical systems for general graphs.
