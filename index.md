@@ -5,7 +5,7 @@
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: By appointment, COL 8.11
+* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
 * [Milan Vojnovic](mailto:m.vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: By appointment, COL, 2.05A
 
 ### Teaching Assistant
@@ -76,8 +76,9 @@ In the first week, we will introduce the basic concepts of the course, including
 This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages.  We will introduce the notion of databases and database managers, and the client-server model.
 
 *Lecture Notes*:
-* [Lecture, Week 1](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) ([pdf version](http://github.com/lse-st445/lectures/week01/ST445_wk1_lecture.pdf))
-* [R example to fix](http://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/R_example.ipynb)
+* [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
+* [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
+* [R example to fix](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
 
 
 *Readings*:
@@ -94,7 +95,7 @@ This week will also introduce basic data types, in a language-agnostic manner, f
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: **Setting up a website using GitHub pages**, by forking a repository, staging and committing changes, and pushing these to a repository for publishing a website using Jekyll.
+*Lab*: [**Setting up a website using GitHub pages**](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_class.ipynb), by forking a repository, staging and committing changes, and pushing these to a repository for publishing a website using Jekyll.
 * Installing git and setting up an account on GitHub
 * Using Jupyter notebooks on GitHub
 * How to complete and submit assignments using GitHub Classroom
