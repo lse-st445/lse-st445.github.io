@@ -103,9 +103,8 @@ A step-by-step beginner's guide to creating a personal website and blog using Je
 
 *Lab*: [**Working with git and GitHub**](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_class.md).
 * Installing git and setting up an account on GitHub
-* Using Jupyter notebooks on GitHub
 * How to complete and submit assignments using GitHub Classroom
-* Forking and correcting the [broken R example](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
+* Forking and correcting a broken Jupyter notebook
 * Cloning a website repository, modifying it, and publishing a personal webpage
 
 
