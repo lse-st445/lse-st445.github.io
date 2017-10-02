@@ -75,7 +75,7 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
@@ -110,9 +110,9 @@ A step-by-step beginner's guide to creating a personal website and blog using Je
 
 
 ------
-#### Week 2. The shape of data
+#### Week 2. [The shape of data](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb)
 
-This week moves beyond the rectangular format common in statistical datasets, modeled on a spreadsheet, to cover relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.
+This week moves beyond the rectangular format common in statistical datasets, modeled on a spreadsheet, to cover relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
 *Readings*:
 * Wickham, Hadley and Garett Grolemund.  2017.  _R for Data Science: Import, Tidy, Transform, Visualize, and Model Data_.  Sebastopol, CA: O'Reilly.  [Part II Wrangle](http://r4ds.had.co.nz/wrangle-intro.html), [Tibbles](http://r4ds.had.co.nz/tibbles.html), [Data Import](http://r4ds.had.co.nz/data-import.html), [Tidy Data](http://r4ds.had.co.nz/tidy-data.html) (Ch. 7-9 of the print edition).
@@ -122,7 +122,10 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)", 20 Jan 2017.
 
-*Lab*: **Reshaping and data in R**
+*Lecture Notes*:
+* [Lecture, Week 2](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture_slides.pdf))
+
+*Lab*: [**Reshaping and data in R**](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_class.md)
 * Moving from wide to long data and back again, in R and Python.
 * Merge and join operations.
 * Using lookup and "hash" tables.
