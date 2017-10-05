@@ -125,10 +125,8 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 * [Lecture, Week 2](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture_slides.pdf))
 
 *Lab*: [**Reshaping and data in R**](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_class.md)
-* Moving from wide to long data and back again, in R and Python.
-* Merge and join operations.
-* Using lookup and "hash" tables.
-* Normalizing tables through key relations.
+See also:
+* [Class examples in Python](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_python_reshaping.ipynb)
 
 ------
 
