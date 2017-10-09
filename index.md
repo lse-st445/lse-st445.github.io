@@ -130,7 +130,7 @@ See also:
 
 ------
 
-#### Week 3. Creating and managing databases
+#### [Week 3. Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
 
@@ -141,6 +141,9 @@ We will return to database normalization, and how to implement this using good p
 *Further Resources*:
 * [SQLite documentation](https://www.sqlite.org/docs.html).
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
+
+*Lecture Notes*:
+* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture_slides.pdf))
 
 *Lab*: **Working with a relational database manager**
 * Normalizing a data structure and storing it in SQLite
