@@ -143,7 +143,7 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 
 *Lecture Notes*:
-* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture_slides.pdf))
+* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture_slides.pdf))
 
 *Lab*: **Working with a relational database manager**
 * Normalizing a data structure and storing it in SQLite
