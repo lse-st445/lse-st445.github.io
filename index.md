@@ -130,7 +130,7 @@ See also:
 
 ------
 
-#### [Week 3. Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
+#### Week 3. [Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
 
@@ -152,7 +152,7 @@ We will return to database normalization, and how to implement this using good p
 
 
 ------
-#### [Week 4. Using data from the Internet](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
+#### Week 4. [Using data from the Internet](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
 
 This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown, as well as common data formats such as JSON (Javascript Object Notation).  We will cover basic web scraping, to turn web data into text or numbers.  We will also cover the client-server model, and how machines and humans transmit data over networks and to and from databases.
 
@@ -174,7 +174,7 @@ This week covers markup languages, content style sheets, and web protocols for p
 
 ------
 
-#### Week 5. Working with APIs
+#### Week 5. [Working with APIs](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb)
 
 Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.
 
@@ -186,6 +186,9 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * the [**twitteR** package for R](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
+
+*Lecture Notes*:
+* [Lecture, Week 5](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture_slides.pdf))
 
 *Lab*: **Working with social media data: Twitter**
 * Download Twitter data using Twitter's REST APIs
