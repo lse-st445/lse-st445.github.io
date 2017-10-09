@@ -130,7 +130,7 @@ See also:
 
 ------
 
-#### [Week 3. Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk3_lecture.ipynb)
+#### [Week 3. Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
 
@@ -152,7 +152,7 @@ We will return to database normalization, and how to implement this using good p
 
 
 ------
-#### Week 4. Using data from the Internet
+#### [Week 4. Using data from the Internet](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
 
 This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown, as well as common data formats such as JSON (Javascript Object Notation).  We will cover basic web scraping, to turn web data into text or numbers.  We will also cover the client-server model, and how machines and humans transmit data over networks and to and from databases.
 
@@ -166,6 +166,9 @@ This week covers markup languages, content style sheets, and web protocols for p
 * Severance, Charles Russell.  [_Introduction to Networking: How the Internet Works_](http://www.net-intro.com).  Charles Severance, 2015.
 * Vik Paruchuri, "[Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)", 17 November 2016.
 * Justin Yek, "[How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)", 10 June 2017.
+
+*Lecture Notes*:
+* [Lecture, Week 4](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture_slides.pdf))
 
 *Lab*: **Scraping data from the web**
 
