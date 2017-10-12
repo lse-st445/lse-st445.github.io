@@ -145,10 +145,10 @@ We will return to database normalization, and how to implement this using good p
 *Lecture Notes*:
 * [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture_slides.pdf))
 
-*Lab*: [**Working with a relational database manager**](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_class.ipynb)
-* Normalizing a data structure and storing it in SQLite
-* Enforcing data integrity
-* Constructing queries
+*Lab*: [**Working with a relational database manager**]()  
+* To complete this assignment, you will edit the .ipynb file to add your answers, and submit that.
+* Here are some [additional notes that build on the lecture](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_class.ipynb)
+* Here are some [suggestions for additional resources]() that could help in answering Exercise 3.
 
 ------
 #### Week 4. [Using data from the Internet](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
