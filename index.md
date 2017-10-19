@@ -169,7 +169,8 @@ This week covers markup languages, content style sheets, and web protocols for p
 *Lecture Notes*:
 * [Lecture, Week 4](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture_slides.pdf))
 
-*Lab*: **Scraping data from the web**(https://classroom.github.com/a/UJTk4weL)  
+*Lab*: [**Scraping data from the web**](https://classroom.github.com/a/UJTk4weL)  
+
 ------
 
 #### Week 5. [Working with APIs](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb)
