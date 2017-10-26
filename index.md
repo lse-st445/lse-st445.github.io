@@ -189,7 +189,7 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 *Lecture Notes*:
 * [Lecture, Week 5](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture_slides.pdf))
 
-*Lab*: **Working with social media data: Twitter**
+*Lab*: [**Working with social media data: Twitter**](https://classroom.github.com/a/RY-6fNBv)
 * Download Twitter data using Twitter's REST APIs
 * Clean and process the data
 * Normalize the data and store it
