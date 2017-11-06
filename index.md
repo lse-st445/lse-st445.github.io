@@ -203,7 +203,7 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 ------
 #### Week 7. Exploratory data analysis
 
-We will introduce the basic statistical plots that are commonly used in exploratory data analysis. We will first consider standard plots for univariate data analysis, including histograms, empirical distribution functions, as well as plots of summary statistics such as boxplots. We will then consider different variants of bar plots, which are commonly used for comparison of parallel batches of data.
+We will introduce the basic statistical plots that are commonly used in exploratory data analysis. We will first consider standard plots for univariate data analysis, including histograms, empirical distribution functions, as well as plots of summary statistics such as boxplots and violinplots. We will then consider different variants of bar plots, which are commonly used for comparison of parallel batches of data, as well as scatter plots for exploration of correlation patterns in data.
 
 *Readings*:
 * M. Friendly, [A Brief History of Data Visualization](http://www.datavis.ca/papers/hbook.pdf), Handbook of Computational Statistics: Data Visualization (Editors C. Chen, W. Hardle and A. Unwin), Vol III, Springer-Verlag, 2006
@@ -213,33 +213,30 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * [Seaborn: statistical data visualization](https://seaborn.pydata.org)
 
 *Lab*: **Matplotlib primer and basic statistical plots**
-* Plotting using Matplotlib, dataframe and datastream APIs
-* Customizing style, axes labels, ticks, and scale
-*  Histogram, boxplots and their variants
-* Bar plots, horizontal, vertical and stacked
+* Basic plotting using Matplotlib and Seaborn libraries
+* GitHub archive dataset exploratory data analysis
 
 ------
-#### Week 8. Exploratory data analysis (cont'd)
+#### Week 8. Matrix data visualization
 
-We will continue our consideration of data visualizations for exploratory data analysis by examining various other statistical plots, primarily focusing to multivariate data analysis and time series data. We will consider the use of scatter plots and heatmaps.
+We will consider how to visualize matrix data such as covariance and other similarity matrices and adjacency matrices of graphs such as those representing social networks. The key here is to use a suitable ordering of matrix rows and columns to visualize any possibly existing clustering structure. We will explain the underlying methods based on spectral theory of matrices, using the concepts of matrix eigenvectors and clustering based on matrix eigenvectors. In particular, we will explain the method based on *seriation* using the so-called Fiedler eigenvector and *spectral co-clustering* based on using eigenvectors in combination with k-means clustering method.
 
 *Readings*:
-* K. Dale, Data Visualization with Python & JavaScript, O'Reilly, 2016
-* H. Wickham, ggplot2: Elegant Graphics for Data Analysis, Second Edition, Springer, 2016
-* S. Few, Show Me the Numbers: Designing Tables and Graphs to Enlighten, Second Edition, Analytics Press, 2012
 * L. Wilkinson and M. Friendly, [History Corner: The History of the Cluster Heat Map](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf), The American Statistician, Vol 63, No 2, May 2009
+* I. S. Dhilon, [Co-clustering documents and words using bipartite spectral graph partitioning](http://www.cs.utexas.edu/users/inderjit/public_papers/kdd_bipartite.pdf), Proc. of ACM KDD, 2001
+* Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
 *Lab*: **Statistical plots using Matplotlib and Seaborn**
-* Scatterplot and scatterplot matrix
-* Matrix reordering, clustering and bi-clustering
-* Time series plotting, autocorrelation plot
+* Synthetic matrix data visualization using seriation method
+* Visualization of adjacency matrices derived from GitHub archive dataset
+* Using sklearn.cluster.bicluster
 
 ------
 #### Week 9. Model evaluation
 
-In this week, we will introduce standard statistical plots for the performance evaluation of statistical models and machine learning algorithms for classification. We will introduce standard statistical plots for assessing the performance of binary classifiers, such as receiver operating characteristic (ROC) and precision-recall (PR) curves. We will learn how to interpret these plots and discuss their advantages and limitations.
+In this week, we will introduce standard statistical plots for the performance evaluation of statistical models and machine learning algorithms for classification. We will introduce standard statistical plots for assessing the performance of binary classifiers, such as *receiver operating characteristic* (ROC) and *precision-recall* (PR) curves. We will learn how to interpret these plots and discuss their advantages and limitations.
 
-We will also discuss various standard metrics used for assessing the performance of binary classifiers, such as accuracy, area under the curve (AUC) and Gini coefficient, discuss their relation to the ROC curve, as well as their advantages and limitations.
+We will also discuss various standard metrics used for assessing the performance of binary classifiers, such as *accuracy*, *area under the curve* (AUC) and *Gini coefficient*, discuss their relation to the ROC curve, as well as their advantages and limitations.
 
 
 *Readings*:
@@ -257,9 +254,9 @@ We will also discuss various standard metrics used for assessing the performance
 ------
 #### Week 10. Dimensionality reduction
 
-We will consider how to visualize hidden structures in a high-dimensional data, such as hidden clusters or low-dimensional manifolds, by using dimensionality reduction methods. We will explain the underlying principles of dimensionality reduction methods such as multidimensional scaling, locally linear embedding, isomap, spectral embedding, and stochastic neighbor embedding. We will see how geometry, linear algebra and optimisation methods give raise to different dimensionality reduction methods.
+We will consider how to visualize hidden structures in high-dimensional data, such as hidden clusters or embedded low-dimensional manifolds, by using dimensionality reduction methods. We will explain the underlying principles of dimensionality reduction methods such as multidimensional scaling, locally linear embedding, isomap, spectral embedding, and stochastic neighbor embedding. We will see how the geometry, linear algebra and optimisation methods give raise to different dimensionality reduction methods.
 
-Our focus will be on the dimensionality methods that are commonly used in practice and widely available through software libraries such as sklearn.manifold. We will also consider modern applications for visualizing different dimensionality reductions such as Google embedding projector.
+Our focus will be on the dimensionality methods that are commonly used in practice and widely available through software libraries such as sklearn.manifold. We will also consider modern tools for visualizing different dimensionality reductions such as Google embedding projector.
 
 
 *Readings*:
@@ -267,7 +264,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * I. Borg and P. J. F. Groenen, Modern Multidimensional Scaling: Theory and Applications, Second Edition, Springer, 2005
 * A. Geron, Hands-on Machine Learning with Scikit-Learn & TensorFlow, O’Reilly, 2017, Chapter 8, Dimensionality Reduction
 * Google's [embedding projector](http://projector.tensorflow.org)
-* API reference, [scikit learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
+* API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
 *Lab*: **Dimensionality reduction using sklearn.manifold**
 * Dimensionality reduction plots using different methods
@@ -277,7 +274,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 ------
 #### Week 11. Graph data visualization
 
-In the last week, we will consider the basic methods for visualization of graph data such as visualizing social network relationships. We will consider different graph layouts and the principles of how they are computed. This will involve methods based on simple principles for drawing graphs that have a tree structure as well as more sophisticated methods based on spectral theory of linear algebra and dynamical systems for general graphs.
+In the last week, we will consider basic methods for visualization of graph data such as visualizing social network relationships. We will consider different graph layouts and the principles of how they are computed. This will involve methods based on simple principles for drawing graphs that have a tree structure as well as more sophisticated methods based on spectral theory of linear algebra and dynamical systems for general graphs.
 
 *Readings*:
 * A. Hagberg, D. Schult and P. Swart, [NetworkX Reference]( https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
