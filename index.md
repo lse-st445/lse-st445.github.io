@@ -212,7 +212,7 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * [Matplotlib](https://matplotlib.org)
 * [Seaborn: statistical data visualization](https://seaborn.pydata.org)
 
-*Lab*: **Matplotlib primer and basic statistical plots**
+*Lab*: [**Matplotlib primer and basic statistical plots**](https://classroom.github.com/a/rWCAJErU)
 * Basic plotting using Matplotlib and Seaborn libraries
 * GitHub archive dataset exploratory data analysis
 
