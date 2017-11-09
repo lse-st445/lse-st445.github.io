@@ -216,6 +216,8 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * Basic plotting using Matplotlib and Seaborn libraries
 * GitHub archive dataset exploratory data analysis
 
+The lab session solution can be found [here](https://github.com/lse-st445/assignment-7-instructions/blob/master/exercise7_with_class_solution.ipynb).
+
 ------
 #### Week 8. Matrix data visualization
 
