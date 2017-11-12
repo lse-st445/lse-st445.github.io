@@ -215,8 +215,8 @@ We will introduce the basic statistical plots that are commonly used in explorat
 *Lab*: [**Matplotlib primer and basic statistical plots**](https://classroom.github.com/a/rWCAJErU)
 * Basic plotting using Matplotlib and Seaborn libraries
 * GitHub archive dataset exploratory data analysis
-
-The lab session solution and the python notebook to clean the json data can be found [here](https://github.com/lse-st445/assignment-7-instructions).
+* [Class 7 solution](https://github.com/lse-st445/lectures/blob/master/week07/st445_wk7_class.ipynb)
+* [Notebook cleaning the github json data](https://github.com/lse-st445/assignment-7-instructions/blob/master/EDA-GitHub-data-cleaning.ipynb)
 
 ------
 #### Week 8. Matrix data visualization
