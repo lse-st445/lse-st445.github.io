@@ -228,7 +228,7 @@ We will consider how to visualize matrix data such as covariance and other simil
 * I. S. Dhilon, [Co-clustering documents and words using bipartite spectral graph partitioning](http://www.cs.utexas.edu/users/inderjit/public_papers/kdd_bipartite.pdf), Proc. of ACM KDD, 2001
 * Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
-*Lab*: **Statistical plots using Matplotlib and Seaborn**
+*Lab*: [**Statistical plots using Matplotlib and Seaborn**](https://classroom.github.com/a/4h5qIjwe)
 * Synthetic matrix data visualization using seriation method
 * Visualization of adjacency matrices derived from GitHub archive dataset
 * Using sklearn.cluster.bicluster
