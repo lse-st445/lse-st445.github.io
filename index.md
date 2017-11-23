@@ -248,7 +248,7 @@ We will also discuss various standard metrics used for assessing the performance
 * API reference: [sklearn.metrics](http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics)
 
 
-*Lab*: **Evaluating classifiers using sklearn.metrics**
+*Lab*: [**Evaluating classifiers using sklearn.metrics**](https://classroom.github.com/a/47RFfmko)
 * Comparing binary classifiers in ROC and PR space
 * Comparison of ROC and PR curves
 * Accuracy, AUC and other metrics
