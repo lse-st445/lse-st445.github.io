@@ -268,7 +268,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * Google's [embedding projector](http://projector.tensorflow.org)
 * API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
-*Lab*: **Dimensionality reduction using sklearn.manifold**
+*Lab*: [**Dimensionality reduction using sklearn.manifold**](https://classroom.github.com/a/DOp3TXsR)
 * Dimensionality reduction plots using different methods
 * Understanding the meaning of various input parameters
 * Understanding the sensitivity to the input parameter values
