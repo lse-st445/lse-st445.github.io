@@ -284,7 +284,7 @@ In the last week, we will consider basic methods for visualization of graph data
 * [Graphviz – Graph Visualisation Software](http://graphviz.org/), especially manual pages, layout commands
 
 
-*Lab*: **Graph drawing using NetworkX**
+*Lab*: [**Graph drawing using NetworkX**](https://classroom.github.com/a/yErZ9N6r)
 * Loading and manipulating graphs using NetworkX
 * Changing basic properties of graph visualization such as node or edge colors
 * Drawing graphs using different layouts
