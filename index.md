@@ -8,11 +8,11 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Michaelmas Term 2017
+### Michaelmas Term 2018
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
+* [Steve Bell](mailto:s.c.bell@lse.ac.uk), Department of Statistics.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
 * [Milan Vojnovic](mailto:m.vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: By appointment, COL, 2.05A
 
 ### Teaching Assistant
