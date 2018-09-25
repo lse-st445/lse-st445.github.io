@@ -13,25 +13,24 @@ colorlinks: true
 ### Instructors
 
 * [Steve Bell](mailto:s.c.bell@lse.ac.uk), Department of Statistics.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
-* [Milan Vojnovic](mailto:m.vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: By appointment, COL, 2.05A
 
 ### Teaching Assistant
-* [Christine Yuen](mailto:L.T.Yuen@lse.ac.uk), Department of Statistics.  *Office hours*: Monday 15:00 - 16:00, COL 5.03 (from week 2, computer workshop related questions only)
+* [Simon Scholler](mailto:L.T.Yuen@lse.ac.uk), Department of Statistics.  *Office hours*: Monday 15:00 - 16:00, COL 5.03 (from week 2, computer workshop related questions only)
 
 ### Course Information
 
-* Lectures on Tuesdays 10:00–12:00 in CLM.2.02
-* Classes on Thursdays 13:00–14:30 in TW2.4.02
+* Lectures on Mondays 10:00–12:00 in OLD.4.10
+* Classes on Wednesdays 09:00–10:30 in STC.S08
 
 No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Introduction to Data](#week-1-introduction-to-data) | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 2        | [The shape of data](#week-2-the-shape-of-data)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
-| 3        | [Creating and managing databases](#week-3-creating-and-managing-databases)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
-| 4        | [Using data from the Internet](#week-4-using-data-from-the-internet)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
-| 5        | [Working with APIs](#week-5-working-with-apis)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
+| 2        | [Python and NumPy Data Structures](#week-2-python-and-numpy-data-structures)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
+| 3        | [Wrangling Data with Pandas](#week-3-wrangling-data-with-pandas)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
+| 4        | [Creating and Managing Databases](#week-4-creating-and-managing-databases)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
+| 5        | [Colecting Data from the Internet](#week-5-collecting-data-from-the-internet)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
 | 6        | _Reading Week_                       |
 
 
@@ -64,7 +63,7 @@ No prior experience with programming is required.
 
 ### Software
 
-We will use some tools, notably SQLite, R, and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets and final exam.
+We will use some tools, notably SQLite and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets and final exam.
 
 Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrations, and the course notes themselves.
 
