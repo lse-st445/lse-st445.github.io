@@ -30,7 +30,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 2        | [Python and NumPy Data Structures](#week-2-python-and-numpy-data-structures)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
 | 3        | [Wrangling Data with Pandas](#week-3-wrangling-data-with-pandas)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
 | 4        | [Creating and Managing Databases](#week-4-creating-and-managing-databases)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
-| 5        | [Colecting Data from the Internet](#week-5-collecting-data-from-the-internet)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
+| 5        | [Collecting Data from the Internet](#week-5-collecting-data-from-the-internet)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
 | 6        | _Reading Week_                       |
 
 
@@ -41,9 +41,9 @@ This course will cover the principles of digital methods for storing and structu
 
 A core objective of this course is to provide students with a well-rounded sense of "data science literacy", meaning you will become familiar with the core structures, terms, protocols, and software that forms the core material of data science and applied computing.  This is a broad category, covering abstract concepts such as database normal forms and complex data structures, but also covers a range of simple tools and formats such as markup languages, web publishing, and working with APIs (application programming interfaces).  In the second half of the course, we will focus on communicating results visually through turning data into plots and other visualizations.
 
-On the theory side, introduce principles and applications of the electronic storage, structuring, manipulation, transformation, extraction, and dissemination of data. This includes data types, database design, data base implementation, and data analysis through structured queries. Through joining operations, we will also cover the challenges of data linkage and how to combine datasets from different sources. We begin by discussing concepts in fundamental data types, and how data is stored and recorded electronically. We will cover database design, especially relational databases, using substantive examples across a variety of fields. Students are introduced to SQL through MySQL, and programming assignments in this unit of the course will be designed to insure that students learn to create, populate and query an SQL database.  We will briefly compare relational databases to other formats of database manager, the "NoSQL" types such as MongoDB, including the JSON data format.  Students will be encouraged to work with data relevant to their own interests as they learn to create, populate and query data.
+On the theory side, introduce principles and applications of the electronic storage, structuring, manipulation, transformation, extraction, and dissemination of data. This includes data types, database design, data base implementation, and data analysis through structured queries. Through joining operations, we will also cover the challenges of data linkage and how to combine datasets from different sources. We begin by discussing concepts in fundamental data types, and how data is stored and recorded electronically. We will cover database design, especially relational databases, using substantive examples across a variety of fields. Students are introduced to SQL through SQLite, and programming assignments in this unit of the course will be designed to insure that students learn to create, populate and query an SQL database.  We will briefly compare relational databases to other formats of database manager, the "NoSQL" types such as MongoDB, including the JSON data format.  Students will be encouraged to work with data relevant to their own interests as they learn to create, populate and query data.
 
-On the practical side, we will cover a variety of tools with which every data scientist should be familiar, including revision control tools, web publishing formats, tools and commands for reshaping and recasting data, how to work with different data formats, how to merge and link data, and how to publish a website.
+On the practical side, we will cover a variety of tools with which every data scientist should be familiar, including revision control, web publishing formats, tools and commands for reshaping and recasting data, how to work with different data formats, how to merge and link data, and how to publish a website.
 
 In the data visualisation part of the course, we will cover a variety of principles, tools, and methods for visualizing data.
 
@@ -78,12 +78,12 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
-This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages.  We will introduce the notion of databases and database managers, and the client-server model.
+This week will also introduce basic data types, in a language-agnostic manner, from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given.Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
 * [Administrative overview of the course](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_admin.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_admin_slides.pdf))
 * [Lecture, Week 1](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))
-* [R example to fix](https://github.com/lse-st445/lectures/blob/master/week01/R_example.ipynb)
+* [Python example to fix](https://github.com/lse-st445/lectures/blob/master/week01/Python_example.ipynb)
 
 
 *Readings*:
@@ -108,13 +108,14 @@ A step-by-step beginner's guide to creating a personal website and blog using Je
 
 
 ------
-#### Week 2. [The shape of data](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb)
 
-This week moves beyond the rectangular format common in statistical datasets, modeled on a spreadsheet, to cover relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
+Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
 *Readings*:
+* [NumPy Documentation](https://www.numpy.org)
 * Wickham, Hadley and Garett Grolemund.  2017.  _R for Data Science: Import, Tidy, Transform, Visualize, and Model Data_.  Sebastopol, CA: O'Reilly.  [Part II Wrangle](http://r4ds.had.co.nz/wrangle-intro.html), [Tibbles](http://r4ds.had.co.nz/tibbles.html), [Data Import](http://r4ds.had.co.nz/data-import.html), [Tidy Data](http://r4ds.had.co.nz/tidy-data.html) (Ch. 7-9 of the print edition).
-* The [**reshape2** package](http://had.co.nz/reshape/) for R.
+* McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 
 *Further Resources*:
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
@@ -123,66 +124,64 @@ This week moves beyond the rectangular format common in statistical datasets, mo
 *Lecture Notes*:
 * [Lecture, Week 2](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture_slides.pdf))
 
-*Lab*: [**Reshaping and data in R**](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_class.md)
+*Lab*: [**Processing data with NumPy**](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_class.md)
 See also:
 * [Class examples in Python](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_python_reshaping.ipynb)
 
 ------
 
-#### Week 3. [Creating and managing databases](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
+#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
 
-We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.
+This week we shall be exploring Pandas which is one of Python's main tools. It gives Python a DataFrame similar to the other main data science language R. Pandas can handle heterogeneous data and so it extends the capability of NumPy, which is mostly suited to homogeneous numerical data. Pandas works well with other key Python modules such as scikit-learn (machine learning) and matplotlib. We will also cover common data formats such as JSON (Javascript Object Notation).  
+
+
+*Readings*:
+* [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
+
+*Lecture Notes*:
+* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture_slides.pdf))
+
+*Lab*: [**Cleaning and Shaping data**](https://classroom.github.com/a/UJTk4weL)  
+
+------
+#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
+
+We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown,  
 
 *Readings*:
 *	Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
 *	Nield, Thomas. _Getting Started with SQL: A hands-on approach for beginners_. O’Reilly, 2016.  Entire text.
-
-*Further Resources*:
 * [SQLite documentation](https://www.sqlite.org/docs.html).
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
+* Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
+
+
 
 *Lecture Notes*:
-* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture_slides.pdf))
+* [Lecture, Week 4](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture_slides.pdf))
 
 *Lab*: [**Working with a relational database manager**](https://classroom.github.com/a/ZmAxfNMr)  
 * To complete this assignment, you will edit the .ipynb file to add your answers, and submit that.
 * Here are some [additional notes that build on the lecture](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_class.ipynb)
 * Here are some [suggestions for additional resources](https://github.com/lse-st445/assignment-3-instructions/blob/master/README.md) that could help in answering Exercise 3.
 
-------
-#### Week 4. [Using data from the Internet](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
-
-This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown, as well as common data formats such as JSON (Javascript Object Notation).  We will cover basic web scraping, to turn web data into text or numbers.  We will also cover the client-server model, and how machines and humans transmit data over networks and to and from databases.
-
-*Readings*:
-* Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
-* [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
-*Further Resources*:
-
-* Duckett, Jon.  _HTML and CSS: Design and Build Websites_.  New York: Wiley, 2011.
-* Severance, Charles Russell.  [_Introduction to Networking: How the Internet Works_](http://www.net-intro.com).  Charles Severance, 2015.
-* Vik Paruchuri, "[Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)", 17 November 2016.
-* Justin Yek, "[How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)", 10 June 2017.
-
-*Lecture Notes*:
-* [Lecture, Week 4](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture_slides.pdf))
-
-*Lab*: [**Scraping data from the web**](https://classroom.github.com/a/UJTk4weL)  
 
 ------
 
-#### Week 5. [Working with APIs](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb)
+#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb)
 
-Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.
+Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.We will cover basic web scraping, to turn web data into text or numbers.
 
 *Readings*:
 *   Cooksey, Brian.  [_An Introduction to APIs_](https://zapier.com/learn/apis/#download).  Zapier, 2014.
 *   [**python-twitter** documentation](https://python-twitter.readthedocs.io/en/latest/)
+* Vik Paruchuri, "[Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)", 17 November 2016.
+* [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* Justin Yek, "[How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)", 10 June 2017.
 
 *Further Resources*:
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
-* the [**twitteR** package for R](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
 *Lecture Notes*:
