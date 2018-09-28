@@ -15,11 +15,7 @@ colorlinks: true
 * [Steve Bell](mailto:s.c.bell@lse.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 13-14:00, COL.5.13
 
 ### Teaching Assistant
-<<<<<<< HEAD
 * [Simon Scholler](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: TBA
-=======
-* [Simon Schoeller](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: TBA (from week 2, computer workshop related questions only)
->>>>>>> 815979f87d44202a06ad3f33feb0b098a3f853b0
 
 ### Course Information
 
