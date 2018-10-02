@@ -15,7 +15,7 @@ colorlinks: true
 * [Steve Bell](mailto:s.c.bell@lse.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 13-14:00, COL.5.13
 
 ### Teaching Assistant
-* [Simon Schoeller](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: Wedesdays 11-12:00, COL.5.03
+* [Simon Scholler](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: TBA
 
 ### Course Information
 
@@ -65,7 +65,7 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/adminLectures2018/blob/master/week01/st445_wk1_lecture_slides.html)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/adminLectures2018/blob/master/week01/ST445_wk1_lecture%20slides.pdf)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
