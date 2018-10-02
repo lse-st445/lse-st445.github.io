@@ -172,7 +172,7 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * [Matplotlib](https://matplotlib.org)
 * [Seaborn: statistical data visualization](https://seaborn.pydata.org)
 
-*Lab*: ### Matplotlib primer and basic statistical plots 
+#### *Lab*: Matplotlib primer and basic statistical plots
 
 ------
 #### Week 8. Matrix data visualization
@@ -184,7 +184,7 @@ We will consider how to visualize matrix data such as covariance and other simil
 * I. S. Dhilon, [Co-clustering documents and words using bipartite spectral graph partitioning](http://www.cs.utexas.edu/users/inderjit/public_papers/kdd_bipartite.pdf), Proc. of ACM KDD, 2001
 * Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
-*Lab*: ### Statistical plots using Matplotlib and Seaborn
+#### *Lab*: Statistical plots using Matplotlib and Seaborn
 * Synthetic matrix data visualization using seriation method
 * Visualization of adjacency matrices derived from GitHub archive dataset
 * Using sklearn.cluster.bicluster
@@ -204,7 +204,7 @@ We will also discuss various standard metrics used for assessing the performance
 * API reference: [sklearn.metrics](http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics)
 
 
-*Lab*: ### Evaluating classifiers using sklearn.metrics
+#### *Lab*: Evaluating classifiers using sklearn.metrics
 * Comparing binary classifiers in ROC and PR space
 * Comparison of ROC and PR curves
 * Accuracy, AUC and other metrics
@@ -224,7 +224,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * Google's [embedding projector](http://projector.tensorflow.org)
 * API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
-*Lab*: ### Dimensionality reduction using sklearn.manifold
+#### *Lab*: Dimensionality reduction using sklearn.manifold
 * Dimensionality reduction plots using different methods
 * Understanding the meaning of various input parameters
 * Understanding the sensitivity to the input parameter values
@@ -240,7 +240,7 @@ In the last week, we will consider basic methods for visualization of graph data
 * [Graphviz – Graph Visualisation Software](http://graphviz.org/), especially manual pages, layout commands
 
 
-*Lab*: ### Graph drawing using NetworkX
+#### *Lab*: Graph drawing using NetworkX
 * Loading and manipulating graphs using NetworkX
 * Changing basic properties of graph visualization such as node or edge colors
 * Drawing graphs using different layouts
