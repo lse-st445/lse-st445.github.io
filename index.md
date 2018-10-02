@@ -112,13 +112,6 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)", 20 Jan 2017.
 
-*Lecture Notes*:
-* [Lecture, Week 2](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week02/ST445_wk2_lecture_slides.pdf))
-
-*Lab*: [**Processing data with NumPy**](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_class.md)
-See also:
-* [Class examples in Python](https://github.com/lse-st445/lectures/blob/master/week02/ST445_wk2_python_reshaping.ipynb)
-
 ------
 
 #### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb)
@@ -130,11 +123,6 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
-
-*Lecture Notes*:
-* [Lecture, Week 3](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week03/ST445_wk3_lecture_slides.pdf))
-
-*Lab*: [**Cleaning and Shaping data**](https://classroom.github.com/a/UJTk4weL)  
 
 ------
 #### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb)
@@ -148,15 +136,6 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 * Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
 
-
-
-*Lecture Notes*:
-* [Lecture, Week 4](https://github.com/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week04/ST445_wk4_lecture_slides.pdf))
-
-*Lab*: [**Working with a relational database manager**](https://classroom.github.com/a/ZmAxfNMr)  
-* To complete this assignment, you will edit the .ipynb file to add your answers, and submit that.
-* Here are some [additional notes that build on the lecture](https://github.com/lse-st445/lectures/blob/master/week03/ST445_wk3_class.ipynb)
-* Here are some [suggestions for additional resources](https://github.com/lse-st445/assignment-3-instructions/blob/master/README.md) that could help in answering Exercise 3.
 
 
 ------
@@ -176,15 +155,6 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
-*Lecture Notes*:
-* [Lecture, Week 5](https://github.com/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week05/ST445_wk5_lecture_slides.pdf))
-
-*Lab*: [**Working with social media data: Twitter**](https://classroom.github.com/a/RY-6fNBv)
-* Download Twitter data using Twitter's REST APIs
-* Clean and process the data
-* Normalize the data and store it
-* Perform basic analysis of the text and non-textual data.
-
 
 ------
 #### Week 6. Reading Week
@@ -202,11 +172,7 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * [Matplotlib](https://matplotlib.org)
 * [Seaborn: statistical data visualization](https://seaborn.pydata.org)
 
-*Lab*: [**Matplotlib primer and basic statistical plots**](https://classroom.github.com/a/rWCAJErU)
-* Basic plotting using Matplotlib and Seaborn libraries
-* GitHub archive dataset exploratory data analysis
-* [Class 7 solution](https://github.com/lse-st445/lectures/blob/master/week07/st445_wk7_class.ipynb)
-* [Notebook cleaning the github json data](https://github.com/lse-st445/assignment-7-instructions/blob/master/EDA-GitHub-data-cleaning.ipynb)
+*Lab*: ### Matplotlib primer and basic statistical plots 
 
 ------
 #### Week 8. Matrix data visualization
@@ -218,7 +184,7 @@ We will consider how to visualize matrix data such as covariance and other simil
 * I. S. Dhilon, [Co-clustering documents and words using bipartite spectral graph partitioning](http://www.cs.utexas.edu/users/inderjit/public_papers/kdd_bipartite.pdf), Proc. of ACM KDD, 2001
 * Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
-*Lab*: [**Statistical plots using Matplotlib and Seaborn**](https://classroom.github.com/a/4h5qIjwe)
+*Lab*: ### Statistical plots using Matplotlib and Seaborn
 * Synthetic matrix data visualization using seriation method
 * Visualization of adjacency matrices derived from GitHub archive dataset
 * Using sklearn.cluster.bicluster
@@ -238,7 +204,7 @@ We will also discuss various standard metrics used for assessing the performance
 * API reference: [sklearn.metrics](http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics)
 
 
-*Lab*: [**Evaluating classifiers using sklearn.metrics**](https://classroom.github.com/a/47RFfmko)
+*Lab*: ### Evaluating classifiers using sklearn.metrics
 * Comparing binary classifiers in ROC and PR space
 * Comparison of ROC and PR curves
 * Accuracy, AUC and other metrics
@@ -258,7 +224,7 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * Google's [embedding projector](http://projector.tensorflow.org)
 * API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
-*Lab*: [**Dimensionality reduction using sklearn.manifold**](https://classroom.github.com/a/DOp3TXsR)
+*Lab*: ### Dimensionality reduction using sklearn.manifold
 * Dimensionality reduction plots using different methods
 * Understanding the meaning of various input parameters
 * Understanding the sensitivity to the input parameter values
@@ -274,7 +240,7 @@ In the last week, we will consider basic methods for visualization of graph data
 * [Graphviz – Graph Visualisation Software](http://graphviz.org/), especially manual pages, layout commands
 
 
-*Lab*: [**Graph drawing using NetworkX**](https://classroom.github.com/a/yErZ9N6r)
+*Lab*: ### Graph drawing using NetworkX
 * Loading and manipulating graphs using NetworkX
 * Changing basic properties of graph visualization such as node or edge colors
 * Drawing graphs using different layouts
