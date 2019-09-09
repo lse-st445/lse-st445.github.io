@@ -8,14 +8,15 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Michaelmas Term 2018
+### Michaelmas Term 2019
 
 ### Instructors
 
-* [Steve Bell](mailto:s.c.bell@lse.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 13-14:00, COL.5.13
+* [Chengchun Shi](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: TBA, COL.5.11
 
 ### Teaching Assistant
-* [Simon Schoeller](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 11-12:00, COL.5.03
+* TBA
+<!---* [Simon Schoeller](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 11-12:00, COL.5.03--->
 
 ### Course Information
 
