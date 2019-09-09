@@ -20,15 +20,15 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures on Mondays 10:00–12:00 in OLD.4.10
-* Classes on Wednesdays 09:00–10:30 in STC.S08
+* Lectures on Tuesday 12:00–14:00 in NAB.2.06
+* Classes on Wednesdays 13:00–14:30 in STC.S08
 
 No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Introduction to Data](#week-1-introduction-to-data) | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 2        | [Python and NumPy Data Structures](#week-2-python-and-numpy-data-structures)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
+| 2        | [Python and NumPy Data Structures](#week-2-python-and-numpy-data-structures)                  | 8        | [Matrix data visualization](#week-8-matrix-data-visualization) |
 | 3        | [Wrangling Data with Pandas](#week-3-wrangling-data-with-pandas)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
 | 4        | [Creating and Managing Databases](#week-4-creating-and-managing-databases)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
 | 5        | [Collecting Data from the Internet](#week-5-collecting-data-from-the-internet)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
