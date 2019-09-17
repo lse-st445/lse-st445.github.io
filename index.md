@@ -55,7 +55,7 @@ No prior experience with programming is required.
 
 ### Software
 
-We will use some tools, notably SQLite and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets and final exam.
+We will use some tools, notably SQLite and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets.
 
 Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrations, and the course notes themselves.
 
