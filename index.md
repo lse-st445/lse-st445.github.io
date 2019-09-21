@@ -16,7 +16,6 @@ colorlinks: true
 
 ### Teaching Assistant
 * Fulvia Marotta, [F.Marotta@lse.ac.uk](mailto:F.Marotta@lse.ac.uk), Department of Economics. *Office hours*: Wednesday 15-16:00, TBA
-<!---* [Simon Schoeller](mailto:sfs14@ic.ac.uk), Department of Statistics.  *Office hours*: Wednesdays 11-12:00, COL.5.03--->
 
 ### Course Information
 
@@ -74,7 +73,7 @@ This week will also introduce basic data types from the perspective of machine i
 
 *Lecture Notes*:
 * [Administrative overview of the course](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_admin.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures2019/blob/master/week1/ST445_wk1_admin_slides.pdf))
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_lecture.ipynb) <!---(see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))--->
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_lecture.ipynb)
 * [Python example to fix](https://github.com/lse-st445/lectures2019/blob/master/Week1/DebugExercise.ipynb)
 
 
@@ -92,15 +91,10 @@ This week will also introduce basic data types from the perspective of machine i
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with git and GitHub**](https://github.com/lse-st445/lectures/blob/master/week1/ST445_wk1_class.md).
-* Installing git and setting up an account on GitHub
-* How to complete and submit assignments using GitHub Classroom
-* Forking and correcting a broken Jupyter notebook
-* Cloning a website repository, modifying it, and publishing a personal webpage
-
+*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures/blob/master/week1/ST445_wk1_class.ipynb).
 
 ------
-#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2019/blob/master/Week2/ST445_week2_Lecture.ipynb)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2019/blob/master/Week2/ST445_Week2_Lecture.ipynb)
 
 Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -141,7 +135,7 @@ We will return to database normalization, and how to implement this using good p
 
 ------
 
-#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2019/blob/master/Week5/ST445_week5_Lecture.ipynb)
+#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2019/blob/master/Week5/ST445_Week5_Lecture.ipynb)
 
 Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.We will cover basic web scraping, to turn web data into text or numbers.
 
