@@ -60,7 +60,7 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 
 ### Assessment
 
-Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
+Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
 
 ### Schedule
 
