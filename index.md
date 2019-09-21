@@ -66,16 +66,16 @@ Project assignment (60%) and continuous assessment in weeks 3, 6, 8, 10 (10% eac
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_lecture.slides.html)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
 This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
-* [Administrative overview of the course](https://github.com/lse-st445/lectures2019/blob/master/Week01/ST445_wk1_admin.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures2019/blob/master/week01/ST445_wk1_admin_slides.pdf))
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2019/blob/master/Week01/ST445_wk1_lecture.ipynb) <!---(see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))--->
-* [Python example to fix](https://github.com/lse-st445/lectures2019/blob/master/Week01/DebugExercise.ipynb)
+* [Administrative overview of the course](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_admin.ipynb) (see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures2019/blob/master/week1/ST445_wk1_admin_slides.pdf))
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2019/blob/master/Week1/ST445_wk1_lecture.ipynb) <!---(see also [pdf version](https://nbviewer.jupyter.org/github/lse-st445/lectures/blob/master/week01/ST445_wk1_lecture_slides.pdf))--->
+* [Python example to fix](https://github.com/lse-st445/lectures2019/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
@@ -92,7 +92,7 @@ This week will also introduce basic data types from the perspective of machine i
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with git and GitHub**](https://github.com/lse-st445/lectures/blob/master/week01/ST445_wk1_class.md).
+*Lab*: [**Working with git and GitHub**](https://github.com/lse-st445/lectures/blob/master/week1/ST445_wk1_class.md).
 * Installing git and setting up an account on GitHub
 * How to complete and submit assignments using GitHub Classroom
 * Forking and correcting a broken Jupyter notebook
@@ -100,7 +100,7 @@ A step-by-step beginner's guide to creating a personal website and blog using Je
 
 
 ------
-#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2019/blob/master/Week2/ST445_week2_Lecture.slides.html)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2019/blob/master/Week2/ST445_week2_Lecture.ipynb)
 
 Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -115,7 +115,7 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 
 ------
 
-#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2019/blob/master/Week3/ST445_week3_Lecture.slides.html)
+#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2019/blob/master/Week3/ST445_week3_Lecture.ipynb)
 
 This week we shall be exploring Pandas which is one of Python's main tools. It gives Python a DataFrame similar to the other main data science language R. Pandas can handle heterogeneous data and so it extends the capability of NumPy, which is mostly suited to homogeneous numerical data. Pandas works well with other key Python modules such as scikit-learn (machine learning) and matplotlib. We will also cover common data formats such as JSON (Javascript Object Notation).  
 
@@ -126,7 +126,7 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
 
 ------
-#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2019/blob/master/Week4/ST445_week4_Lecture.slides.html)
+#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2019/blob/master/Week4/ST445_week4_Lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   Finally, for a comparison, we will show a different (non-relational) database model through MongoDB, contrasting this to the relational paradigm.This week covers markup languages, content style sheets, and web protocols for publishing and transmitting data.  Continuing from the material covered in the first week lab session, we will cover markup languages, including HTML, XML, and Markdown,  
 
@@ -141,7 +141,7 @@ We will return to database normalization, and how to implement this using good p
 
 ------
 
-#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2019/blob/master/Week5/ST445_week5_Lecture.slides.html)
+#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2019/blob/master/Week5/ST445_week5_Lecture.ipynb)
 
 Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.We will cover basic web scraping, to turn web data into text or numbers.
 
