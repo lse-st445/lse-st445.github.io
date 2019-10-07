@@ -107,6 +107,8 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)".
 
+*Lab*: [**Control flow in Python**](https://github.com/lse-st445/lectures2019/blob/master/Week2/ST445_wk2_class.ipynb).
+
 ------
 
 #### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2019/blob/master/Week3/ST445_week3_Lecture.ipynb)
