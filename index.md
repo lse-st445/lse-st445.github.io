@@ -121,6 +121,8 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
 
+*Lab*: [**More on pandas**](https://github.com/lse-st445/lectures2019/blob/master/Week3/ST445_week3_class_presentation.ipynb)
+
 ------
 #### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2019/blob/master/Week4/ST445_week4_Lecture.ipynb)
 
