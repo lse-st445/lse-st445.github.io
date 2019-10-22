@@ -135,7 +135,7 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 * Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
 
-
+*Lab*: [**Classes in Python**](https://github.com/lse-st445/lectures2019/blob/master/Week4/ST445_week4_class_presentation.ipynb)
 
 ------
 
