@@ -154,6 +154,7 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
+*Lab*: [**More on web scraping and API**](https://github.com/lse-st445/lectures2019/blob/master/Week5/ST445_week5_class_presentation.ipynb)
 
 ------
 #### Week 6. Reading Week
