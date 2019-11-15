@@ -12,7 +12,7 @@ colorlinks: true
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 15-16:00 pm, Friday 9-10:00 am, COL.5.11
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 9-10:00 am, Friday 9-10:00 am, COL.5.11
 
 ### Teaching Assistant
 * Fulvia Marotta, [F.Marotta@lse.ac.uk](mailto:F.Marotta@lse.ac.uk), Department of Economics. *Office hours*: Wednesday 15-16:00 pm, COL.5.03
