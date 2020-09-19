@@ -8,14 +8,16 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Michaelmas Term 2019
+### Michaelmas Term 2020
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 9-10:00 am, Friday 9-10:00 am, COL.5.11
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 9-10:00 am, Friday 9-10:00 am, Zoom ID: 929 1256 8563, Passcode: ST445, [Link](https://lse.zoom.us/j/92912568563?pwd=Z1U3RzJTek0wZ1daV210ZUlWbVZsUT09)
 
-### Teaching Assistant
-* Fulvia Marotta, [F.Marotta@lse.ac.uk](mailto:F.Marotta@lse.ac.uk), Department of Economics. *Office hours*: Wednesday 15-16:00 pm, COL.5.03
+### Teachers/GTAs
+
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Economics. *Office hours*: Tuesday 15-16:00 pm, Zoom ID: 752 7537 5157, Passcode: 1wkSLE, [Link](https://us04web.zoom.us/j/75275375157?pwd=OFMzN2FtNHhtMjh4Q05EQ2Z2bENCUT09)
+* Siliang Zhang, [s.zhang68@lse.ac.uk](mailto:s.zhang68@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 15-16:00 pm, Zoom ID: 942 362 0935, [Link](https://lse.zoom.us/j/9423620935)
 
 ### Course Information
 
