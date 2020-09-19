@@ -31,8 +31,8 @@ No lectures or classes will take place during School Reading Week 6.
 [LSE's Student Code for a COVID-Secure Campus](https://www.lse.ac.uk/international-relations/assets/documents/pdfs/Student-Code-for-a-COVID-Secure-Campus.pdf)
 
 * **Wear masks** (except if medically exempted) and keep two meters social distancing. We will ask anyone without face coverings to leave the classroom. 
-* Get **tested** on campus. Booking can be found [here](https://info.lse.ac.uk/coronavirus-response/get-tested-at-lse). 
-* Please do not attend on-campus seminar if tested positive or experiencing COVID symptoms. 
+* Get **tested** on LSE campus. Book a test [here](https://info.lse.ac.uk/coronavirus-response/get-tested-at-lse). 
+* Please do **not** attend on-campus seminar if tested positive or experiencing COVID symptoms. 
 * It is totally fine to **not** attend on-campus seminars if you are worried about COVID. We have online seminar sessions and OHs. Seminar exercises, solutions and recordings will be uploaded online. 
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
