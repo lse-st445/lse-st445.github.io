@@ -83,7 +83,6 @@ In the first week, we will introduce the basic concepts of the course, including
 This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
-* [Administrative overview of the course](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_admin.ipynb)
 * [Lecture, Week 1](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_lecture.ipynb)
 * [Python example to fix](https://github.com/lse-st445/lectures2020/blob/master/Week1/DebugExercise.ipynb)
 
