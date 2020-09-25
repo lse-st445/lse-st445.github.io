@@ -16,7 +16,7 @@ colorlinks: true
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Tuesday 15-16:00 pm, Zoom ID: 752 7537 5157, Passcode: 1wkSLE, [Zoom Link](https://us04web.zoom.us/j/75275375157?pwd=OFMzN2FtNHhtMjh4Q05EQ2Z2bENCUT09)
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Tuesday 15-16:00 pm, Zoom ID: 967 2156 4066, Passcode: 044826, [Zoom Link](https://lse.zoom.us/j/96721564066?pwd=cW1PSVlZWDM4YlRIV3U2UXQ5N1ZCdz09)
 * Siliang Zhang, [s.zhang68@lse.ac.uk](mailto:s.zhang68@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 15-16:00 pm, Zoom ID: 942 362 0935, [Zoom Link](https://lse.zoom.us/j/9423620935)
 
 ### Course Information
