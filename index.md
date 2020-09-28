@@ -19,6 +19,8 @@ colorlinks: true
 * Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Tuesday 15-16:00 pm, Zoom ID: 967 2156 4066, Passcode: 044826, [Zoom Link](https://lse.zoom.us/j/96721564066?pwd=cW1PSVlZWDM4YlRIV3U2UXQ5N1ZCdz09)
 * Siliang Zhang, [s.zhang68@lse.ac.uk](mailto:s.zhang68@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 15-16:00 pm, Zoom ID: 942 362 0935, [Zoom Link](https://lse.zoom.us/j/9423620935)
 
+* Please use **LSE Student Hub** to book slots for office hours.
+
 ### Course Information
 
 * **Please send an email** to Christine, Siliang or me with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
