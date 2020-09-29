@@ -104,7 +104,7 @@ This week will also introduce basic data types from the perspective of machine i
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2020/blob/master/week1/ST445_wk1_class.ipynb).
+*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_class.ipynb).
 
 ------
 #### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2020/blob/master/Week2/ST445_Week2_Lecture.ipynb)
