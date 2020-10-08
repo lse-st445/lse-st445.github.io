@@ -29,6 +29,12 @@ colorlinks: true
 
 No lectures or classes will take place during School Reading Week 6.
 
+### Assessment
+
+Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
+
+We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
+
 ### Some Code/Suggestions for On-Campus Seminar/Class 
 
 [LSE's Student Code for a COVID-Secure Campus](https://www.lse.ac.uk/international-relations/assets/documents/pdfs/Student-Code-for-a-COVID-Secure-Campus.pdf)
@@ -70,12 +76,6 @@ No prior experience with programming is required.
 We will use some tools, notably SQLite and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets.
 
 Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrations, and the course notes themselves.
-
-### Assessment
-
-Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
-
-We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
 
 ### Schedule
 
