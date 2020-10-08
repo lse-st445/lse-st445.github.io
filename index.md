@@ -25,7 +25,7 @@ colorlinks: true
 
 * **Please send an email** to Christine, Siliang or me with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
 * Lectures will be pre-recorded and uploaded to Moodle, **not** GitHub. 
-* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (CML.G.02), 13--14:30pm (PAN.G.01).
+* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (ONLINE), 13--14:30 pm (ONLINE), 13--14:30pm (PAN.G.01).
 
 No lectures or classes will take place during School Reading Week 6.
 
