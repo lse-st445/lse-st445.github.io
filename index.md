@@ -25,7 +25,7 @@ colorlinks: true
 
 * **Please send an email** to Christine, Siliang or me with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
 * Lectures will be pre-recorded and uploaded to Moodle, **not** GitHub. 
-* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (ONLINE), 13--14:30 pm (ONLINE), 13--14:30pm (PAN.G.01).
+* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (ONLINE), 13-14:30 pm (ONLINE), 13-14:30pm (PAN.G.01).
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -55,7 +55,6 @@ In this course you will learn to carry out a full data science project cycle goi
 
 For the final project, we will provide you with a dataset, which you will be expected to transform in order to produce a report with visualizations and conclusions. The report should demonstrate the use of the techniques taught in the course.
 
-
 ### Organization
 
 This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.
@@ -75,6 +74,8 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Assessment
 
 Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
+
+We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
 
 ### Schedule
 
