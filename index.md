@@ -21,29 +21,11 @@ colorlinks: true
 
 * Please use **LSE Student Hub** to book slots for office hours.
 
-### Course Information
-
-* **Please send an email** to Christine, Siliang or me with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
-* Lectures will be pre-recorded and uploaded to Moodle, **not** GitHub. 
-* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (ONLINE), 13-14:30 pm (ONLINE), 13-14:30pm (PAN.G.01).
-**Please DO NOT go to an in-person class at 1pm in PAN.G.01 if you have not registered to that class**
-
-No lectures or classes will take place during School Reading Week 6.
-
 ### Assessment
 
 Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
 
 We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
-
-### Some Code/Suggestions for On-Campus Seminar/Class 
-
-[LSE's Student Code for a COVID-Secure Campus](https://www.lse.ac.uk/international-relations/assets/documents/pdfs/Student-Code-for-a-COVID-Secure-Campus.pdf)
-
-* **Wear masks** (except if medically exempted) and keep two meters social distancing. We will ask anyone without face coverings to leave the classroom. 
-* Get **tested** on LSE campus. Book a test [here](https://info.lse.ac.uk/coronavirus-response/get-tested-at-lse). 
-* Please do **not** attend on-campus seminar if tested positive or experiencing COVID symptoms. 
-* It is totally fine to **not** attend on-campus seminars if you are worried about COVID. We have online seminar sessions and OHs. Seminar exercises, solutions and recordings will be uploaded online. 
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
