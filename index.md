@@ -241,4 +241,3 @@ In the last week, we will consider basic methods for visualization of graph data
 * Changing basic properties of graph visualization such as node or edge colors
 * Drawing graphs using different layouts
 * Using graphviz graph layouts
-
