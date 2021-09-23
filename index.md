@@ -12,17 +12,17 @@ colorlinks: true
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: TBA
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: 10:00 - 11:00 AM, COL 5.11.
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday, 3:30 - 4:30 PM.
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday, 3:35 - 4:35 PM, COL 6.02. 
 
-* Please use **LSE Student Hub** to book slots for office hours.
+* Please use **LSE Student Hub** to book slots for office hours at least one hour in advance.
 
 ### Assessment
 
-Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
+Project assignment (70%) and continuous assessment in weeks 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
 
 We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
 
@@ -62,15 +62,15 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_lecture.ipynb)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
 This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_lecture.ipynb)
-* [Python example to fix](https://github.com/lse-st445/lectures2020/blob/master/Week1/DebugExercise.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_lecture.ipynb)
+* [Python example to fix](https://github.com/lse-st445/lectures2021/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
@@ -87,10 +87,10 @@ This week will also introduce basic data types from the perspective of machine i
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_class.ipynb).
+*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_class.ipynb).
 
 ------
-#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2020/blob/master/Week2/ST445_Week2_Lecture.ipynb)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2021/blob/master/Week2/ST445_Week2_Lecture.ipynb)
 
 Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -103,11 +103,11 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)".
 
-*Lab*: [**Control flow in Python**](https://github.com/lse-st445/lectures2020/blob/master/Week2/ST445_wk2_class.ipynb).
+*Lab*: [**Control flow in Python**](https://github.com/lse-st445/lectures2021/blob/master/Week2/ST445_wk2_class.ipynb).
 
 ------
 
-#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2020/blob/master/Week3/ST445_week3_Lecture.ipynb)
+#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2021/blob/master/Week3/ST445_week3_Lecture.ipynb)
 
 This week we shall be exploring Pandas which is one of Python's main tools. It gives Python a DataFrame similar to the other main data science language R. Pandas can handle heterogeneous data and so it extends the capability of NumPy, which is mostly suited to homogeneous numerical data. Pandas works well with other key Python modules such as scikit-learn (machine learning) and matplotlib. We will also cover common data formats such as JSON (Javascript Object Notation).  
 
@@ -117,10 +117,10 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
 
-*Lab*: [**More on pandas**](https://github.com/lse-st445/lectures2020/blob/master/Week3/ST445_week3_class_presentation.ipynb)
+*Lab*: [**More on pandas**](https://github.com/lse-st445/lectures2021/blob/master/Week3/ST445_week3_class_presentation.ipynb)
 
 ------
-#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2020/blob/master/Week4/ST445_week4_Lecture.ipynb)
+#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2021/blob/master/Week4/ST445_week4_Lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.    
 
@@ -131,11 +131,11 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 * Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
 
-*Lab*: [**Classes in Python**](https://github.com/lse-st445/lectures2020/blob/master/Week4/ST445_week4_class_presentation.ipynb)
+*Lab*: [**Classes in Python**](https://github.com/lse-st445/lectures2021/blob/master/Week4/ST445_week4_class_presentation.ipynb)
 
 ------
 
-#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2020/blob/master/Week5/ST445_Week5_Lecture.ipynb)
+#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2021/blob/master/Week5/ST445_Week5_Lecture.ipynb)
 
 Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.We will cover basic web scraping, to turn web data into text or numbers.
 
@@ -150,7 +150,7 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
-*Lab*: [**More on web scraping and API**](https://github.com/lse-st445/lectures2020/blob/master/Week5/ST445_week5_class_presentation.ipynb)
+*Lab*: [**More on web scraping and API**](https://github.com/lse-st445/lectures2021/blob/master/Week5/ST445_week5_class_presentation.ipynb)
 
 ------
 #### Week 6. Reading Week
