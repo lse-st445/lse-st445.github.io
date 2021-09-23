@@ -24,7 +24,7 @@ colorlinks: true
 
 Project assignment (70%) and continuous assessment in weeks 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
 
-We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
+We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2021/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
