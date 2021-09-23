@@ -12,13 +12,13 @@ colorlinks: true
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Friday, 10:00 - 11:00 AM, COL 5.11.
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 14:30 - 15:30 PM, Friday 10:00 - 11:00 AM, COL 5.11.
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday, 3:35 - 4:35 PM, COL 6.02. 
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 3:35 - 4:35 PM, COL 6.02. 
 
-* Please use **LSE Student Hub** to book slots for office hours at least one hour in advance.
+* Please use **LSE Student Hub** to book slots for office hours at least one hour in advance. You may join remotely if you want. You will find the zoom links on **LSE Student Hub**.
 
 ### Assessment
 
