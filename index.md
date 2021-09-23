@@ -12,7 +12,7 @@ colorlinks: true
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: 10:00 - 11:00 AM, COL 5.11.
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Friday, 10:00 - 11:00 AM, COL 5.11.
 
 ### Teachers/GTAs
 
