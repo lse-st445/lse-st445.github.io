@@ -16,7 +16,7 @@ colorlinks: true
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: TBA
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday, 3:30 - 4:30 PM.
 
 * Please use **LSE Student Hub** to book slots for office hours.
 
