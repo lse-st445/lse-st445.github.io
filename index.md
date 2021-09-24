@@ -20,6 +20,10 @@ colorlinks: true
 
 * Please use **LSE Student Hub** to book slots for office hours at least one hour in advance. You may join remotely if you want. You will find the zoom links on **LSE Student Hub**.
 
+### Course Information
+
+* To access the course materials, please fill in the form here https://forms.office.com/Pages/ResponsePage.aspx?id=_epnVXfnpUKRu5RA_UO4k9IU9K3OWZRDnfHYZ0uayQlUMzdITFYxOVVTWkUyNzJKU0pFVUNLVU9XMS4u. Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
+
 ### Assessment
 
 Project assignment (70%) and continuous assessment in weeks 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
