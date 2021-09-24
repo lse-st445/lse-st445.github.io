@@ -12,11 +12,11 @@ colorlinks: true
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 14:30 - 15:30 PM, Friday 10:00 - 11:00 AM, COL 5.11/Zoom.
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 14:30 - 15:30 PM, Friday 10:00 - 11:00 AM, COL 5.11 or Zoom.
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 3:35 - 4:35 PM, COL 6.02/Zoom. 
+* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 3:35 - 4:35 PM, COL 6.02 or Zoom. 
 
 * Fulvia Marotta [f.marotta@qmul.ac.uk](mailto:f.marotta@qmul.ac.uk), School of Economics and Finance, Queen Mary University London. *Office hours*: TBA. 
 
