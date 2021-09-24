@@ -26,6 +26,8 @@ colorlinks: true
 
 * To access the course materials, please fill in the form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=_epnVXfnpUKRu5RA_UO4k9IU9K3OWZRDnfHYZ0uayQlUMzdITFYxOVVTWkUyNzJKU0pFVUNLVU9XMS4u). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
 
+* Please see the [Moodle page](https://moodle.lse.ac.uk/course/view.php?id=5800) for detailed information.
+
 ### Assessment
 
 Project assignment (70%) and continuous assessment in weeks 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
