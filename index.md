@@ -18,7 +18,7 @@ colorlinks: true
 
 * Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 3:35 - 4:35 PM, COL 6.02 or Zoom. 
 
-* Fulvia Marotta [f.marotta@qmul.ac.uk](mailto:f.marotta@qmul.ac.uk), School of Economics and Finance, Queen Mary University London. *Office hours*: TBA. 
+* Fulvia Marotta [f.marotta@qmul.ac.uk](mailto:f.marotta@qmul.ac.uk), School of Economics and Finance, Queen Mary University London. *Office hours*: Wednesday 2:30 - 3:30 PM, [Zoom](https://qmul-ac-uk.zoom.us/j/85916086030) 
 
 * Please use **LSE Student Hub** to book slots for office hours at least one hour in advance. You may join remotely if you want. You will find the zoom links on **LSE Student Hub**.
 
