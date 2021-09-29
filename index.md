@@ -20,6 +20,8 @@ colorlinks: true
 
 * Fulvia Marotta [f.marotta@qmul.ac.uk](mailto:f.marotta@qmul.ac.uk), School of Economics and Finance, Queen Mary University London. *Office hours*: Wednesday 2:30 - 3:30 PM, [Zoom](https://qmul-ac-uk.zoom.us/j/85916086030) 
 
+* Tao Ma [tm2763@nyu.edu](mailto:tm2763@nyu.edu), Department of Statistics.
+
 * Please use **LSE Student Hub** to book slots for office hours at least one hour in advance. You may join remotely if you want. You will find the zoom links on **LSE Student Hub**.
 
 ### Course Information
