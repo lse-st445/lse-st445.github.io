@@ -30,7 +30,7 @@ colorlinks: true
 
 ### Assessment
 
-Project assignment (80%) and continuous assessment in weeks 5, 8, 10 (5% each). Students will be expected to produce 10 problem sets in the AT.
+Project assignment (80%) and continuous assessment in weeks 3, 5, 8, 10 (5% each). Students will be expected to produce 10 problem sets in the AT.
 
 We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2021/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
 
