@@ -49,13 +49,13 @@ We will use GitHub classroom to manage our homeworks. Please find the instructio
 
 In this course you will learn to carry out a full data science project cycle going from data acquisition to reporting with conclusions and visualisations. To do this you will use a range of Python modules: NumPy and Pandas for data cleaning and wrangling, matplotlib and Seaborn for visualisation. We shall emphasise the use of visualisation to check for the integrity of data. Techniques for data acquisition using web-scraping and Application Programming Interfaces (APIs) will be introduced as will the principles behind the use of databases. After Reading Week we will cover some more advanced topics concerned with visualising higher dimensional data sets. These techniques include the use of clustering and dimension reduction algorithms from the scikit-learn module. Finally we will look at using graphs so as to visualise relationships. Throughout, we shall be using Jupyter and Anaconda Python.   
 
-For the final project, we will provide you with a dataset, which you will be expected to transform in order to produce a report with visualizations and conclusions. The report should demonstrate the use of the techniques taught in the course.
+For the final project, you will be expected to find a dataset in order to produce a report with visualizations and conclusions. The report should demonstrate the use of the techniques taught in the course.
 
 ### Organization
 
 This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.
 
-The course will involve 20 hours of lectures and 15 hours of computer workshops in the MT.
+The course will involve 20 hours of lectures and 15 hours of computer workshops in the AT.
 
 ### Prerequisites
 
