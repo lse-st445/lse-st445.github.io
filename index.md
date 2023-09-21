@@ -16,7 +16,7 @@ colorlinks: true
 
 ### Teachers/GTAs
 
-* Shakeel Gavioli-Akilagun, [s.a.gavioli-akilagun@lse.ac.uk](mailto:s.a.gavioli-akilagun@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 9:00 - 10:00 AM, COL 8.05.  
+* Shakeel Gavioli-Akilagun, [s.a.gavioli-akilagun@lse.ac.uk](mailto:s.a.gavioli-akilagun@lse.ac.uk), Department of Statistics. *Office hours*: Monday 9:00 - 10:00 AM, COL 8.05.  
 
 * Pingfan Su [p.su1@lse.ac.uk](mailto:p.su1@lse.ac.uk), Department of Statistics. *Office hours*: Thursday 4:00 - 5:00 PM. 
 
