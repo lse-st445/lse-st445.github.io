@@ -8,21 +8,19 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Michaelmas Term 2021
+### Michaelmas Term 2023
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 14:30 - 15:30 PM, Friday 10:00 - 11:00 AM, COL 5.11 or Zoom.
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 10:00 - 11:00 AM, Wednesday 10:00 - 11:00 AM, COL 8.08 or Zoom.
 
 ### Teachers/GTAs
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 3:35 - 4:35 PM, COL 6.02 or Zoom. 
+* Shakeel Gavioli-Akilagun, [s.a.gavioli-akilagun@lse.ac.uk](mailto:s.a.gavioli-akilagun@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 9:00 - 10:00 AM, COL 8.05.  
 
-* Fulvia Marotta [f.marotta@qmul.ac.uk](mailto:f.marotta@qmul.ac.uk), School of Economics and Finance, Queen Mary University London. <!---*Office hours*: Wednesday 2:30 - 3:30 PM, [Zoom](https://qmul-ac-uk.zoom.us/j/85916086030)---> 
+* Pingfan Su [p.su1@lse.ac.uk](mailto:p.su1@lse.ac.uk), Department of Statistics. *Office hours*: Thursday 4:00 - 5:00 PM. 
 
-* Tao Ma [T.Ma9@lse.ac.uk](mailto:T.Ma9@lse.ac.uk), Department of Statistics. *Office hours*: Thursday 1:00 - 2:00 PM, COL 1.06 or Zoom.
-
-* Please use **LSE Student Hub** to book slots for office hours at least one hour in advance. You may join remotely if you want. You will find the zoom links on **LSE Student Hub**. Please notice that Tao and Christine's office hours are specialized to coding questions, homework problems and seminar class materials. 
+* Please use **LSE Student Hub** to book slots for office hours at least two hours in advance. Please notice that Pingfan and Shakeel's office hours are specialized to coding questions, homework problems and seminar class materials. 
 
 ### Course Information
 
