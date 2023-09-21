@@ -24,7 +24,7 @@ colorlinks: true
 
 ### Course Information
 
-* To access the course materials, please fill in the form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=_epnVXfnpUKRu5RA_UO4k9IU9K3OWZRDnfHYZ0uayQlUMzdITFYxOVVTWkUyNzJKU0pFVUNLVU9XMS4u). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
+* To access the course materials, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSdLk5dPgXjj8DrgUsZvQbV9BcAZPrlkjf2B30rO7ntKs9KZpA/viewform?usp=sf_link). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
 
 * Please see the [Moodle page](https://moodle.lse.ac.uk/course/view.php?id=5800) for detailed information.
 
