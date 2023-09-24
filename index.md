@@ -70,15 +70,15 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_lecture.ipynb)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/Lecture2023/blob/main/Week1/ST445_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
 This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_lecture.ipynb)
-* [Python example to fix](https://github.com/lse-st445/lectures2021/blob/master/Week1/DebugExercise.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st445/Lecture2023/blob/main/Week1/ST445_wk1_lecture.ipynb)
+* [Python example to fix](https://github.com/lse-st445/lectures2023/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
@@ -95,7 +95,7 @@ This week will also introduce basic data types from the perspective of machine i
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2021/blob/master/Week1/ST445_wk1_class.ipynb).
+*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_class.ipynb).
 
 ------
 #### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2021/blob/master/Week2/ST445_Week2_Lecture.ipynb)
