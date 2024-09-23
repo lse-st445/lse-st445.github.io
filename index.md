@@ -22,7 +22,7 @@ colorlinks: true
 
 ### Course Information
 
-* To access the course materials, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSdLk5dPgXjj8DrgUsZvQbV9BcAZPrlkjf2B30rO7ntKs9KZpA/viewform?usp=sf_link). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
+* To access the course materials, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfIUx3GksEd35T7Jiubajm0GYH-sDXyX64rfvV9T4LVPyj8EA/viewform?usp=sf_link). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
 
 * Please see the Moodle page for detailed information.
 
