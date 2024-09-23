@@ -68,14 +68,13 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Schedule
 
 ------
-------
 #### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_lecture.ipynb)
 
 In the first week, we will give an overview of the course.  As the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through setting up an account and subscribing to the course organisation and assignments.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_lecture.ipynb)
-* [Python example to fix](https://github.com/lse-st445/lectures2023/blob/master/Week1/DebugExercise.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2024/blob/master/Week1/ST445_wk1_lecture.ipynb)
+* [Python example to fix](https://github.com/lse-st445/lectures2024/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
@@ -91,6 +90,8 @@ In the first week, we will give an overview of the course.  As the course relies
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
+*Lab*: [**Working with Ipython notebook and Git**](https://github.com/lse-st445/lectures2024/blob/master/Week1/ST445_wk1_workshop.ipynb).
+
 ------
 #### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2023/blob/master/Week2/ST445_Week2_Lecture.ipynb)
 
@@ -105,6 +106,7 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)".
 
+*Lab*: Control flow in Python
 
 ------
 
@@ -118,6 +120,7 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
 
+*Lab*: More on pandas
 
 ------
 #### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2021/blob/master/Week4/ST445_week4_Lecture.ipynb)
@@ -131,6 +134,7 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 * Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
 
+*Lab*: Classes in Python
 
 ------
 
@@ -149,6 +153,7 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
+*Lab*: More on web scraping and API
 
 ------
 #### Week 6. Reading Week
@@ -166,7 +171,7 @@ We will introduce the basic statistical plots that are commonly used in explorat
 * [Matplotlib](https://matplotlib.org)
 * [Seaborn: statistical data visualization](https://seaborn.pydata.org)
 
-#### *Lab*: Matplotlib primer and basic statistical plots
+*Lab*: Matplotlib primer and basic statistical plots
 
 ------
 #### Week 8. Matrix data visualization
@@ -178,10 +183,12 @@ We will consider how to visualize matrix data such as covariance and other simil
 * I. S. Dhilon, [Co-clustering documents and words using bipartite spectral graph partitioning](http://www.cs.utexas.edu/users/inderjit/public_papers/kdd_bipartite.pdf), Proc. of ACM KDD, 2001
 * Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
-#### *Lab*: Statistical plots using Matplotlib and Seaborn
+*Lab*: Statistical plots using Matplotlib and Seaborn
+<!---
 * Synthetic matrix data visualization using seriation method
 * Visualization of adjacency matrices derived from GitHub archive dataset
 * Using sklearn.cluster.bicluster
+-->
 
 ------
 #### Week 9. Model evaluation
@@ -198,10 +205,12 @@ We will also discuss various standard metrics used for assessing the performance
 * API reference: [sklearn.metrics](http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics)
 
 
-#### *Lab*: Evaluating classifiers using sklearn.metrics
+*Lab*: Evaluating classifiers using sklearn.metrics
+<!---
 * Comparing binary classifiers in ROC and PR space
 * Comparison of ROC and PR curves
 * Accuracy, AUC and other metrics
+-->
 
 ------
 #### Week 10. Dimensionality reduction
@@ -218,18 +227,13 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * Google's [embedding projector](http://projector.tensorflow.org)
 * API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
-#### *Lab*: Dimensionality reduction using sklearn.manifold
+*Lab*: Dimensionality reduction using sklearn.manifold
+<!---
 * Dimensionality reduction plots using different methods
 * Understanding the meaning of various input parameters
 * Understanding the sensitivity to the input parameter values
+-->
 
 ------
-#### Week 11. Graph data visualization
-
-In the last week, we will consider basic methods for visualization of graph data such as visualizing social network relationships. We will consider different graph layouts and the principles of how they are computed. This will involve methods based on simple principles for drawing graphs that have a tree structure as well as more sophisticated methods based on spectral theory of linear algebra and dynamical systems for general graphs.
-
-*Readings*:
-* A. Hagberg, D. Schult and P. Swart, [NetworkX Reference]( https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
-* NetworkX: Software for complex networks, [https://networkx.github.io/](https://networkx.github.io/)
-* [Graphviz – Graph Visualisation Software](http://graphviz.org/), especially manual pages, layout commands
+#### Week 11. More advanced visualization
 
