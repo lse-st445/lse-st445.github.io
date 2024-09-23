@@ -8,19 +8,17 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Michaelmas Term 2023
+### Autumn Term 2024
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 10:00 - 11:00 AM, COL 8.08 or Zoom.
+* Ieva Kazlauskaite, [i.kazlauskaite@lse.ac.uk](mailto:i.kazlauskaite@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 1PM - 3PM, COL 5.12.
 
 ### Teachers/GTAs
 
 * Shakeel Gavioli-Akilagun, [s.a.gavioli-akilagun@lse.ac.uk](mailto:s.a.gavioli-akilagun@lse.ac.uk), Department of Statistics. *Office hours*: Monday 9:00 - 10:00 AM, COL 8.05.  
 
-* Pingfan Su [p.su1@lse.ac.uk](mailto:p.su1@lse.ac.uk), Department of Statistics. *Office hours*: Thursday 4:00 - 5:00 PM, COL 5.09.
-
-* Please use **LSE Student Hub** to book slots for office hours at least two hours in advance. Please notice that Pingfan and Shakeel's office hours are specialized to coding questions, homework problems and seminar class materials. 
+* Please use **LSE Student Hub** to book slots for office hours at least two hours in advance. Please notice that Shakeel's office hours are specialized to coding questions, homework problems and seminar class materials. 
 
 ### Course Information
 
@@ -30,9 +28,9 @@ colorlinks: true
 
 ### Assessment
 
-Project assignment (80%) and continuous assessment in weeks 3, 5, 8, 10 (5% each). Students will be expected to produce 10 problem sets in the AT.
+Project assignment (80%) and continuous (summative) assessment in weeks 3, 5, 8, 10 (5% each). Students will be expected to produce a total of 10 problem sets (formative and summative).
 
-We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2021/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
+We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2023/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
@@ -53,13 +51,13 @@ For the final project, you will be expected to find a dataset in order to produc
 
 ### Organization
 
-This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.
+This course is an introduction to the fundamental concepts of data and data visualization and assumes no prior knowledge of these concepts.
 
 The course will involve 20 hours of lectures and 15 hours of computer workshops in the AT.
 
 ### Prerequisites
 
-No prior experience with programming is required.
+No prior experience with programming is required. However, students are advised to complete the Python for Statistics Pre-sessional Course (available on Moodle).
 
 ### Software
 
@@ -70,35 +68,31 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/Lecture2023/blob/main/Week1/ST445_wk1_lecture.ipynb)
+------
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_lecture.ipynb)
 
-In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
-
-This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
+In the first week, we will give an overview of the course.  As the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through setting up an account and subscribing to the course organisation and assignments.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/Lecture2023/blob/main/Week1/ST445_wk1_lecture.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_lecture.ipynb)
 * [Python example to fix](https://github.com/lse-st445/lectures2023/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
 * Lake, P. and Crowther, P. 2013. _Concise guide to databases: A Practical Introduction_.  London: Springer-Verlag.  Chapter 1, [Data, an Organizational Asset](https://books.google.co.uk/books?id=SuK2BAAAQBAJ&pg=PA301&lpg=PA301&dq=Concise+Guide+to+Databases+pdf&source=bl&ots=pEJj8miMrf&sig=3nrRgpk3kF7fXzcWUWpJ_uzpfl0&hl=en&sa=X&ved=0ahUKEwiAkM3JrbHWAhXE7xQKHWseCZAQ6AEISzAH#v=onepage&q=Concise%20Guide%20to%20Databases%20pdf&f=false)
 * Goodrich, M.T., Tamassia, R. and Goldwasser, M.H. 2013. _Data structures and algorithms in Python_. John Wiley & Sons Ltd.  Ch. 1, through section 1.3.
-* Wickham, Hadley.  Nd.  _Advanced R_, 2nd ed.  Ch 1, [Introduction](https://adv-r.hadley.nz/introduction), and Chapter 2, [Names and Values](https://adv-r.hadley.nz/names-values.html#function-calls).
 * [GitHub Guides](https://guides.github.com), especially: "Understanding the GitHub Flow", "Hello World", and "Getting Started with GitHub Pages".
 
 *Further Readings*:
 * "[Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/)".  _Better Explained_ website.
 * Nelson, Meghan.  2015.  "[An Intro to Git and GitHub for Beginners (Tutorial).](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)"
-* GitHub.  "[Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)" (a cheatsheet).
+* GitHub.  "[Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)".
 * Chacon, Scott and Ben Straub. [_Pro Git_](https://git-scm.com/book/en/v2). 2nd ed. Apress.  Chapters 1-2.
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with Ipython notebook and GitHub**](https://github.com/lse-st445/lectures2023/blob/master/Week1/ST445_wk1_class.ipynb).
-
 ------
-#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2021/blob/master/Week2/ST445_Week2_Lecture.ipynb)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2023/blob/master/Week2/ST445_Week2_Lecture.ipynb)
 
 Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -111,7 +105,6 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 * Reshaping data in Python: "[Reshaping and Pivot Tables](https://pandas.pydata.org/pandas-docs/stable/reshaping.html)".
 * Robin Linderborg, "[Reshaping Data in Python](https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77)".
 
-*Lab*: [**Control flow in Python**](https://github.com/lse-st445/lectures2021/blob/master/Week2/ST445_wk2_class.ipynb).
 
 ------
 
@@ -125,7 +118,6 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 * McKinney, Wes. 2017 (2nd Edition) _Python for Data Analysis_. Sebastopol, CA: O'Reilly
 * Galea, Alex 2018 _Beginning Data Science with Python and Jupyter_ Packt
 
-*Lab*: [**More on pandas**](https://github.com/lse-st445/lectures2021/blob/master/Week3/ST445_week3_class_presentation.ipynb)
 
 ------
 #### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2021/blob/master/Week4/ST445_week4_Lecture.ipynb)
@@ -139,7 +131,6 @@ We will return to database normalization, and how to implement this using good p
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 * Shay Howe. 2015.  [_Learn to Code HTML and CSS: Develop and Style Websites_](http://learn.shayhowe.com/html-css/).  New Riders.  Chs 1-8.
 
-*Lab*: [**Classes in Python**](https://github.com/lse-st445/lectures2021/blob/master/Week4/ST445_week4_class_presentation.ipynb)
 
 ------
 
@@ -158,7 +149,6 @@ Publicly accessible _application programming interfaces_ (APIs) provide a common
 * [Documentation on the Twitter REST API](https://dev.twitter.com/rest/public)
 * Richard Ishida. 2015.  "[Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)".  W3C.
 
-*Lab*: [**More on web scraping and API**](https://github.com/lse-st445/lectures2021/blob/master/Week5/ST445_week5_class_presentation.ipynb)
 
 ------
 #### Week 6. Reading Week
@@ -243,9 +233,3 @@ In the last week, we will consider basic methods for visualization of graph data
 * NetworkX: Software for complex networks, [https://networkx.github.io/](https://networkx.github.io/)
 * [Graphviz – Graph Visualisation Software](http://graphviz.org/), especially manual pages, layout commands
 
-
-#### *Lab*: Graph drawing using NetworkX
-* Loading and manipulating graphs using NetworkX
-* Changing basic properties of graph visualization such as node or edge colors
-* Drawing graphs using different layouts
-* Using graphviz graph layouts
