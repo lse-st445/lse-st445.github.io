@@ -184,11 +184,6 @@ We will consider how to visualize matrix data such as covariance and other simil
 * Scikit-learn documentation, [Section 2.4: Biclustering](http://scikit-learn.org/stable/modules/biclustering.html)
 
 *Lab*: Statistical plots using Matplotlib and Seaborn
-<!---
-* Synthetic matrix data visualization using seriation method
-* Visualization of adjacency matrices derived from GitHub archive dataset
-* Using sklearn.cluster.bicluster
--->
 
 ------
 #### Week 9. Model evaluation
@@ -206,11 +201,6 @@ We will also discuss various standard metrics used for assessing the performance
 
 
 *Lab*: Evaluating classifiers using sklearn.metrics
-<!---
-* Comparing binary classifiers in ROC and PR space
-* Comparison of ROC and PR curves
-* Accuracy, AUC and other metrics
--->
 
 ------
 #### Week 10. Dimensionality reduction
@@ -228,11 +218,6 @@ Our focus will be on the dimensionality methods that are commonly used in practi
 * API reference, [scikit-learn, Section 2.2: manifold learning](http://scikit-learn.org/stable/modules/manifold.html)
 
 *Lab*: Dimensionality reduction using sklearn.manifold
-<!---
-* Dimensionality reduction plots using different methods
-* Understanding the meaning of various input parameters
-* Understanding the sensitivity to the input parameter values
--->
 
 ------
 #### Week 11. More advanced visualization
