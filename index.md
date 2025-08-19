@@ -8,29 +8,32 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # ST445 Managing and Visualizing Data
 
-### Autumn Term 2024
+### Autumn Term 2025
 
 ### Instructors
 
-* Ieva Kazlauskaite, [i.kazlauskaite@lse.ac.uk](mailto:i.kazlauskaite@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 1:30PM - 2:30PM, COL 5.12.
+* Ieva Kazlauskaite, [i.kazlauskaite@lse.ac.uk](mailto:i.kazlauskaite@lse.ac.uk), Department of Statistics.  *Office hours*: TBC, COL 5.12.
 
 ### Teachers/GTAs
 
-* Shakeel Gavioli-Akilagun, [s.a.gavioli-akilagun@lse.ac.uk](mailto:s.a.gavioli-akilagun@lse.ac.uk), Department of Statistics. *Office hours*: Monday 9:00 - 10:00 AM, COL 8.05.  
+* Mingwei Lin, [m.lin20@lse.ac.uk](mailto:m.lin20@lse.ac.uk), Department of Statistics. *Office hours*: TBC.
+* Erhan Xu, [e.xu2@lse.ac.uk](mailto:e.xu2@lse.ac.uk), Department of Statistics. *Office hours*: TBC.
 
-* Please use **LSE Student Hub** to book slots for office hours at least two hours in advance. Please notice that Shakeel's office hours are specialized to coding questions, homework problems and seminar class materials. 
+* Please use **LSE Student Hub** to book slots for office hours at least two hours in advance. Please notice that Mingwei and Erhan's office hours are specialized to coding questions, homework problems and seminar class material. 
 
 ### Course Information
 
-* To access the course materials, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfIUx3GksEd35T7Jiubajm0GYH-sDXyX64rfvV9T4LVPyj8EA/viewform?usp=sf_link). Once we have your GitHub account information, we will add you to our team so that you can have access to the course repository.
+* To access the course material, you will need to fill in an online form with your GitHut details; the link to the form is available on Moodle and will be share during Lecture 1. Once we have your GitHub account information, we will add you to our team so that you can access the course repository.
 
 * Please see the Moodle page for detailed information.
 
 ### Assessment
 
-Project assignment (80%) and continuous (summative) assessment in weeks 3, 5, 8, 10 (5% each). Students will be expected to produce a total of 10 problem sets (formative and summative).
+* Group Project assignment (70%).
+* Summative assessments in weeks 5 and 9 (15% each).
+* Formative assessments in weeks 3 and 7.
 
-We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2024/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
+We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2025/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.md). 
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
@@ -68,13 +71,13 @@ Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrat
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2024/blob/master/Week1/ST445_wk1_lecture.ipynb)
+#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2025/blob/master/Week1/ST445_wk1_lecture.ipynb)
 
 In the first week, we will give an overview of the course.  As the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through setting up an account and subscribing to the course organisation and assignments.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2024/blob/master/Week1/ST445_wk1_lecture.ipynb)
-* [Python example to fix](https://github.com/lse-st445/lectures2024/blob/master/Week1/DebugExercise.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st445/lectures2025/blob/master/Week1/ST445_wk1_lecture.ipynb)
+* [Python example to fix](https://github.com/lse-st445/lectures2025/blob/master/Week1/DebugExercise.ipynb)
 
 
 *Readings*:
@@ -90,10 +93,10 @@ In the first week, we will give an overview of the course.  As the course relies
 * Jim McGlone, "[Creating and Hosting a Personal Site on GitHub
 A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
 
-*Lab*: [**Working with Ipython notebook and Git**](https://github.com/lse-st445/lectures2024/blob/master/Week1/ST445_wk1_workshop.ipynb).
+*Lab*: [**Working with Ipython notebook and Git**](https://github.com/lse-st445/lectures2025/blob/master/Week1/ST445_wk1_workshop.ipynb).
 
 ------
-#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2024/blob/master/Week2/ST445_Week2_Lecture.ipynb)
+#### Week 2. [Python and NumPy Data Structures](https://github.com/lse-st445/lectures2025/blob/master/Week2/ST445_Week2_Lecture.ipynb)
 
 Firtly, we shall review fundamental Python datatypes such as lists and dicts. Then we shall introduce Numerical Python or NumPy which is the module on which Pandas is built. NumPy permits fast array based computation and is the basis for efficient pre-processing and visualisation of data. Many of the built-in NumPy methods can be used in Exploratory Data Analysis (EDA). We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -110,7 +113,7 @@ Firtly, we shall review fundamental Python datatypes such as lists and dicts. Th
 
 ------
 
-#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2024/blob/master/Week3/ST445_week3_Lecture.ipynb)
+#### Week 3. [Wrangling Data with Pandas](https://github.com/lse-st445/lectures2025/blob/master/Week3/ST445_week3_Lecture.ipynb)
 
 This week we shall be exploring Pandas which is one of Python's main tools. It gives Python a DataFrame similar to the other main data science language R. Pandas can handle heterogeneous data and so it extends the capability of NumPy, which is mostly suited to homogeneous numerical data. Pandas works well with other key Python modules such as scikit-learn (machine learning) and matplotlib. We will also cover common data formats such as JSON (Javascript Object Notation).  
 
@@ -123,7 +126,7 @@ This week we shall be exploring Pandas which is one of Python's main tools. It g
 *Lab*: More on pandas
 
 ------
-#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2024/blob/master/Week4/ST445_week4_Lecture.ipynb)
+#### Week 4. [Creating and Managing Databases](https://github.com/lse-st445/lectures2025/blob/master/Week4/ST445_week4_Lecture.ipynb)
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.    
 
@@ -139,7 +142,7 @@ We will return to database normalization, and how to implement this using good p
 
 ------
 
-#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2024/blob/master/Week5/ST445_Week5_Lecture.ipynb)
+#### Week 5. [Collecting Data from the Internet](https://github.com/lse-st445/lectures2025/blob/master/Week5/ST445_Week5_Lecture.ipynb)
 
 Publicly accessible _application programming interfaces_ (APIs) provide a common source of "big" data available from a variety of sources, such as social media data.  This data consists of a variety of data types, but is usually transmitted in JSON format.  In this session, we will cover the basics of APIs, including authentication and the use of protocols for interacting with APIs, and in processing the data that is obtained using these methods.  We will also discuss common problems in using text, including character encodings, working with Unicode, transforming text into numeric data, and cleaning textual data for analysis.We will cover basic web scraping, to turn web data into text or numbers.
 
